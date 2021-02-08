@@ -36,17 +36,25 @@ $y-medium: 1.0rem;
 // fade
 
 body {
+}
+
+div#background {
+    position:fixed;
+    top: 0;
+    height:150%;
+    width:150%;
+    z-index:-1;
 	background: linear-gradient(90deg, hsl(307,50,50) 10%, hsl(213,77,31) 100%);
-	background-size: 150px 150px;
-	animation: gradient 60s linear infinite;
+	background-size: 150px 1px;
+	animation: gradient 4s linear infinite;
 }
 
 @keyframes gradient {
 	0% {
-		background-position: 0%;
+		transform: translate(-150px,0%);
 	}
 	100% {
-		background-position: 100%;
+		transform: translate(0,0%);
 	}
 }
 
