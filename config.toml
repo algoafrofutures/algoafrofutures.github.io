@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://algo-afro-futures.lurk.org/"
 languageCode = "en-us"
 title = "(Algo|Afro) Futures"
 theme = "hugo-researcher"
