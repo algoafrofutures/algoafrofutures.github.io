@@ -1,1 +1,1 @@
-# algoafrofutures.github.io
+# algo-afro-futures

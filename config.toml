@@ -1,0 +1,29 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "(Algo|Afro) Futures"
+theme = "hugo-researcher"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Apply"
+    url = "/apply"
+    weight = 2
+  [[menu.main]]
+    name = "FAQ"
+    url = "/faq"
+    weight = 3
+  [[menu.main]]
+    name = "Tutors"
+    url = "/tutors"
+    weight = 4
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact"
+    weight = 5
+
+[markup.goldmark.renderer]
+  unsafe = true  # allow raw HTML in markdown files
