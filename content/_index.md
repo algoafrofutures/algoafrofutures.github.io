@@ -42,6 +42,3 @@ Each participant will be given a fee of £200 per workshop, plus reasonable trav
 
 To apply please fill out the [application form here](/apply).
 
-## Applicant information
-
-We are looking for applications from early career artists developing work within performing arts practices (music, choreography, live/performance art, etc), and prior experience in coding is not required - only a curiosity to learn! Live coding is surprisingly accessible, and as an algorithmic artform has more in common with weaving, cooking and knitting than software engineering. We are interested in supporting people in taking it in new directions.
