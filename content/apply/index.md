@@ -25,10 +25,12 @@ submission. The questions to be answered are referenced below:
 
 Questions about the programme may already have answers in the [FAQ](/faq). If in doubt please contact us.
 
+## Video submission
+
+To apply to (Algo|Afro) Futures via video submission please submit a video of maximum five minutes in length that answers the above questions.
+
 ## Written submission
 
 To apply to (Algo|Afro) Futures in writing please fill in the form below. The form does not save your progress, so we recommend writing your responses in a separate document and copy/pasting them into the form when you're ready to submit.
 
-## Video submission
-
-To apply to (Algo|Afro) Futures via video submission please submit a video of maximum ten minutes in length that answers the above questions.
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeffQnXfrPB_vy8MV71LrRG41Ocsj_i8NjfSMGkWcmrABWu_g/viewform?embedded=true" width="700" height="1399" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>

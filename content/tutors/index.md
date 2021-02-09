@@ -31,7 +31,8 @@ Alex McLean is an interdisciplinary researcher, software artist and musician bas
 
 ## FoAM Kernow
 
-(Afro|Algo)futures is co-organised with FoAM Kernow/Then Try This, a non-profit company working towards a world with equitable access to knowledge, where thoughtful tools and interventions help us play with complexity and make better decisions, and environmental and social issues are centred and addressed witih urgency.
+
+(Afro|Algo)futures is co-organised with FoAM Kernow, a non-profit company working towards a world with equitable access to knowledge, where thoughtful tools and interventions help us play with complexity and make better decisions, and environmental and social issues are centred and addressed witih urgency.
 
 [https://fo.am/kernow](https://fo.am/kernow)
 
