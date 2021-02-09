@@ -4,11 +4,13 @@ date: 2021-01-21T15:13:36Z
 draft: false
 ---
 
-## (Afro|Algo)futures
+![banner](/banner.png)
 
 #### (Afro|Algo)futures is a mentoring programme for early career Black performing artists who want to explore the creative potential of live coding.
 
 #### Live coding is a performative practice where artists and musicians use code to create live music and live visuals. This is often done at electronic dance music events called Algoraves, but live coding is a technique rather than a genre, and has also been applied to noise music, choreography, live cinema, and many other time-based artforms.
+
+Learn more about live coding in the video below.
 
 {{< youtube h340aNznHnM >}}
 
@@ -40,3 +42,6 @@ Each participant will be given a fee of £200 per workshop, plus reasonable trav
 
 To apply please fill out the [application form here](/apply).
 
+## Applicant information
+
+We are looking for applications from early career artists developing work within performing arts practices (music, choreography, live/performance art, etc), and prior experience in coding is not required - only a curiosity to learn! Live coding is surprisingly accessible, and as an algorithmic artform has more in common with weaving, cooking and knitting than software engineering. We are interested in supporting people in taking it in new directions.
