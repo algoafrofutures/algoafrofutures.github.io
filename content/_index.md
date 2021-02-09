@@ -22,20 +22,21 @@ Over the 5/6 week programme you will participate in a mix of in-person workshops
 
 This opportunity is open for West Midlands-based artists only. A participation fee will be offered and travel expenses within the West Midlands will be covered.
 
+## Applicant profile
+
+We are looking for applications from early career artists developing work within performing arts practices (music, choreography, live/performance art, etc), and prior experience in coding is not required - only a curiosity to learn! Live coding is surprisingly accessible, and as an algorithmic artform has more in common with weaving, cooking and knitting than software engineering. We are interested in supporting people in taking it in new directions.
+
 ## Key information
 
-(Afro|Algo) Futures will take place between April - June at Vivid Projects. Dates to be confirmed in response to lockdown restrictions.
+(Afro|Algo) Futures will take place between April - June at Vivid Projects. Dates will be confirmed in response to lockdown restrictions and participant availability.
 
-The open call is open from 00:00 ... to 23:59 ... (times are in GMT). Applications submitted after this date will not be considered.
+The call is open now until 23:59 on 28th February GMT. Applications submitted after this date will not be considered.
 
 Four successful applicants will be chosen to take part.
 
-Each participant will be given a fee of £200 per workshop (plus expenses).
+Each participant will be given a fee of £200 per workshop, plus reasonable travel expenses.
 
 ## Apply
 
 To apply please fill out the [application form here](/apply).
 
-## Applicant information
-
-We are looking for applications from early career artists developing work within performing arts practices (music, choreography, live/performance art, etc), and prior experience in coding is not required - only a curiosity to learn! Live coding is surprisingly accessible, and as an algorithmic artform has more in common with weaving, cooking and knitting than software engineering. We are interested in supporting people in taking it in new directions.

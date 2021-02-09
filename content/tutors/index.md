@@ -29,9 +29,15 @@ Alex McLean is an interdisciplinary researcher, software artist and musician bas
 2. an expansion or diversification of contemporary genres in terms of their geographical reach or representation; and
 3. transformations in the institutions that provide for the production and distribution of music.
 
+## FoAM Kernow
+
+(Afro|Algo)futures is co-organised with FoAM Kernow/Then Try This, a non-profit company working towards a world with equitable access to knowledge, where thoughtful tools and interventions help us play with complexity and make better decisions, and environmental and social issues are centred and addressed witih urgency.
+
+[https://fo.am/kernow](https://fo.am/kernow)
+
 ## Vivid Projects
 
-Vivid Projects is a non-profit company supporting media arts practice. Founded in 2012 and based in Birmingham, we encourage innovation, risk and experimentation in artistic practice. We are committed to a diversity of practice and encourage historic and contemporary engagement with cultural and sub-cultural histories. Our work is made public through an ambitious programme of events and exhibitions on and off-site, created in collaboration with artists, producers, thinkers and researchers.
+The project is run in partnership with Vivid Projects, a non-profit company supporting media arts practice. Founded in 2012 and based in Birmingham, we encourage innovation, risk and experimentation in artistic practice. We are committed to a diversity of practice and encourage historic and contemporary engagement with cultural and sub-cultural histories. Our work is made public through an ambitious programme of events and exhibitions on and off-site, created in collaboration with artists, producers, thinkers and researchers.
 
 [http://www.vividprojects.org.uk](http://www.vividprojects.org.uk)
 

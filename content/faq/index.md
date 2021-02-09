@@ -42,7 +42,7 @@ For this question we borrow from [Jerwood Arts's defintion](https://jerwoodarts.
 
 > We think of those in the early stages of their careers as usually within the first 10 years of establishing their practice. Broadly speaking, this means the artist/curator/producer will have had some professional experience and reached a critical moment in their career, and will require a particular kind of support in order to maximise their potential and propel them into the next phase of their development.
 
-> For [this programme] it means that, unless an individual has had a career change or break, their first professional experience will have been between 2011 and 2020.
+> For [this programme] it means that, unless an individual has had a career change or break, their first professional experience will have been between 2011 and 2021.
 
 ### Why can only Black people apply?
 Live coding is a developing practice that is in need of diverse perspectives in order to move forward in a creative and healthy way. There have long been efforts in this direction but with some exceptions, these have largely focussed on gender diversity, countering the heavy male bias in technology, with some success. These efforts have been intersectional but the recent growth of the Black Lives Matter movement during 2020 has caused us to reflect further on the disproportionate lack of Black artists in the UK live coding scene. This is despite much of live coded music heavily inspired by Black music, much of which developed against a political struggle.

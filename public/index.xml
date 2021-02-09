@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>(Algo|Afro) Futures</title>
-    <link>http://example.org/</link>
+    <link>https://algo-afro-futures.lurk.org/</link>
     <description>Recent content on (Algo|Afro) Futures</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Jan 2021 15:13:36 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Jan 2021 15:13:36 +0000</lastBuildDate><atom:link href="https://algo-afro-futures.lurk.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apply</title>
-      <link>http://example.org/apply/</link>
+      <link>https://algo-afro-futures.lurk.org/apply/</link>
       <pubDate>Thu, 21 Jan 2021 16:16:35 +0000</pubDate>
       
-      <guid>http://example.org/apply/</guid>
+      <guid>https://algo-afro-futures.lurk.org/apply/</guid>
       <description>Applications to (Algo|Afro) Futures can be made by written or video submission. The questions to be answered are referenced below:
   Name
   Please enter your post code This will be used to check eligibility
@@ -22,19 +22,19 @@
     
     <item>
       <title>Contact</title>
-      <link>http://example.org/contact/</link>
+      <link>https://algo-afro-futures.lurk.org/contact/</link>
       <pubDate>Thu, 21 Jan 2021 16:16:35 +0000</pubDate>
       
-      <guid>http://example.org/contact/</guid>
+      <guid>https://algo-afro-futures.lurk.org/contact/</guid>
       <description>For any questions about the programme please contact Vivid Projects at info@vividprojects.org.uk</description>
     </item>
     
     <item>
       <title>(Algo|Afro) Futures - FAQ</title>
-      <link>http://example.org/faq/</link>
+      <link>https://algo-afro-futures.lurk.org/faq/</link>
       <pubDate>Thu, 21 Jan 2021 15:13:36 +0000</pubDate>
       
-      <guid>http://example.org/faq/</guid>
+      <guid>https://algo-afro-futures.lurk.org/faq/</guid>
       <description>FAQ What can I expect to be doing as part of this programme? What will I need to take part? You will need a laptop running either Windows (version 10 or later), MacOS (Catalina or above) or Linux.
 We will be installing software, which will require you to have full administrator privileges on your computer.
 Chromebooks, iPads, tablets and phones are unfortunately not suitable.
@@ -43,10 +43,10 @@ Can you provide laptops or equipment? Unfortunately we do not have the resources
     
     <item>
       <title>Tutors</title>
-      <link>http://example.org/tutors/</link>
+      <link>https://algo-afro-futures.lurk.org/tutors/</link>
       <pubDate>Thu, 21 Jan 2021 15:13:36 +0000</pubDate>
       
-      <guid>http://example.org/tutors/</guid>
+      <guid>https://algo-afro-futures.lurk.org/tutors/</guid>
       <description>Tutors Antonio Roberts Antonio Roberts is an artist and curator based in Birmingham, UK, working primarily with video, code, and sound. He is critically engaged with the themes surrounding network culture and in his practice explores how technology continues to shape ideas of creation, ownership, and authorship. As a performing visual artist and musician he utilises live coding techniques to demystify technology and reveal its design decisions, limitations, and creative potential.</description>
     </item>
     

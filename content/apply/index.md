@@ -4,7 +4,8 @@ date: 2021-01-21T16:16:35Z
 draft: false
 ---
 
-Applications to (Algo|Afro) Futures can be made by written or video submission. The questions to be answered are referenced below:
+Applications to (Algo|Afro) Futures can be made by written or video
+submission. The questions to be answered are referenced below:
 
 1. Name
 
@@ -12,7 +13,7 @@ Applications to (Algo|Afro) Futures can be made by written or video submission. 
 *This will be used to check eligibility*
 
 3. Why do you want to be involved? (up to 200 words)
-*We're interested to know what interests you about live coding.*
+*We're interested to know what interests you about live coding and what you hope to gain from the programme.*
 
 4. Please describe your practice (up to 200 words)
 *Are there any concepts, themes or questions that run throughout your work? We are looking for early-career artists so don't expect this to be crystal clear!*
@@ -30,4 +31,4 @@ To apply to (Algo|Afro) Futures in writing please fill in the form below. The fo
 
 ## Video submission
 
-To apply to (Algo|Afro) Futures via video submission please submit a video of maximum five minutes in length that answers the above questions.
+To apply to (Algo|Afro) Futures via video submission please submit a video of maximum ten minutes in length that answers the above questions.
