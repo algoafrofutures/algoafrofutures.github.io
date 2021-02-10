@@ -18,7 +18,7 @@ submission. The questions to be answered are referenced below:
 4. Please describe your practice (up to 200 words)
 *Are there any concepts, themes or questions that run throughout your work? We are looking for early-career artists so don't expect this to be crystal clear!*
 
-5.Please share links that describe your music/creative practice
+5. Please share links that describe your music/creative practice
 *If passwords are required please share those*
 
 6. Do you consider yourself to be Black, which we describe as being Black African, Caribbean, Afro-Latinx and African-American heritage, including those of mixed-Black heritage who identify as such?
