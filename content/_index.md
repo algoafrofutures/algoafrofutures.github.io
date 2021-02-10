@@ -24,6 +24,8 @@ Over the 5/6 week programme you will participate in a mix of in-person workshops
 
 This opportunity is open for West Midlands-based artists only. A participation fee will be offered and travel expenses within the West Midlands will be covered.
 
+![algorave performance](/algorave-performance.jpg)
+
 ## Applicant profile
 
 We are looking for applications from early career artists developing work within performing arts practices (music, choreography, live/performance art, etc), and prior experience in coding is not required - only a curiosity to learn! Live coding is surprisingly accessible, and as an algorithmic artform has more in common with weaving, cooking and knitting than software engineering. We are interested in supporting people in taking it in new directions.
