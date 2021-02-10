@@ -8,48 +8,13 @@ draft: false
 
 ### What can I expect to be doing as part of this programme?
 
-The main contact through the programme will be four workshop sessions
-of three hours each. Currently we anticipate the first session taking
-place online, and the rest in Vivid Projects in Birmingham, but of
-course will keep this in review, responding to the ongoing pandemic
-conditions.
+The main contact through the programme will be four workshop sessions of three hours each. Currently we anticipate the first session taking place online, and the rest in Vivid Projects in Birmingham, but of course will keep this in review, responding to the ongoing pandemic conditions.
 
-In addition we expect participants to spend additional time outside
-the workshop sessions, with the opportunity for one-to-one mentoring
-with the tutors, and to perform live at an event at the end of the
-project. Overall we will look for a time commitment equivalent to at
-least five days' work spread over the five weeks of the project, but
-you are of course free invest to much more of your time.
+In addition we expect participants to spend additional time outside the workshop sessions, with the opportunity for one-to-one mentoring with the tutors, and to perform live at an event at the end of theproject. Overall we will look for a time commitment equivalent to at least five days' work spread over the five weeks of the project, but you are of course free invest to much more of your time.
 
-We will provide a clear structure for the programme, however this is
-also an opportunity for you to do something new, so will be happy to
-look at changing the shape of the programme to fit your goals and
-artistic outcomes.
+We will provide a clear structure for the programme, however this is also an opportunity for you to do something new, so will be happy to look at changing the shape of the programme to fit your goals and artistic outcomes.
 
-We anticipate really varied levels of experience, there's no need to
-have any experience with computer programming or making music. We'll
-introduce you to all that, get you up to speed and support you in
-taking it further/integrating with your existing artistic practice.
-
-During the first workshop we will spend some time on introducing each
-other, go through the history of live coding and algorave, and look at
-alternative practices in the scene and how individuals have taken it
-in new directions (e.g. audiovisual and choroegraphic live coding,
-live weaving, artistic live/creative coding manifestos, and the
-alternative live coding events and happenings..). We will spend some
-time making sure you have software installed. We will then get
-hands-on with some live coding in the TidalCycles environment, getting
-you ready for exploring some online tutorials in your own time.
-
-The second workshop will focus on questions you have about TidalCycles
-and live coding in general, focussing on particular practical aspects
-you are interested in (such as control of synthesisers over MIDI). We
-will also encourage you to already try a performance, as individuals
-and/or as a group. No pressure! 
-
-We are leaving the structure of weeks three and four open for now -
-this is the first time we have run a programme like this and want to
-respond to your needs and requests.
+We anticipate really varied levels of experience, there's no need to have any experience with computer programming or making music. We'll introduce you to all that, get you up to speed and support you in taking it further/integrating with your existing artistic practice.
 
 ### What will I need to take part?
 
