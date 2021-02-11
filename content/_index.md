@@ -22,7 +22,7 @@ Since its inception in 2014 there have been hundreds of Algoraves taking place i
 
 Over the 5/6 week programme you will participate in a mix of in-person workshops and asynchronous online discussion around live coding. The tutors will be Antonio Roberts and Alex McLean, two leading artists within live coding. More information about them and other partners can be read on the [Tutors](/tutors) page.
 
-This opportunity is open for West Midlands-based artists only. A participation fee will be offered and travel expenses within the West Midlands will be covered.
+This opportunity is open for Black West Midlands-based artists only. A participation fee will be offered and travel expenses within the West Midlands will be covered.
 
 ![algorave performance](/algorave-performance.jpg)
 
