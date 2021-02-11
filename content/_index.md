@@ -28,7 +28,7 @@ This opportunity is open for West Midlands-based artists only. A participation f
 
 ## Applicant profile
 
-We are looking for applications from early career artists developing work within performing arts practices (music, choreography, live/performance art, etc), and prior experience in coding is not required - only a curiosity to learn! Live coding is surprisingly accessible, and as an algorithmic artform has more in common with weaving, cooking and knitting than software engineering. We are interested in supporting people in taking it in new directions.
+We are looking for applications from Black early career artists developing work within performing arts practices (music, choreography, live/performance art, etc), and prior experience in coding is not required - only a curiosity to learn! Live coding is surprisingly accessible, and as an algorithmic artform has more in common with weaving, cooking and knitting than software engineering. We are interested in supporting people in taking it in new directions.
 
 ## Key information
 
@@ -38,7 +38,7 @@ The call is open now until 23:59 on 28th February GMT. Applications submitted af
 
 Four successful applicants will be chosen to take part.
 
-Each participant will be given a fee of £200 per workshop, plus reasonable travel expenses.
+Each participant will be given a fee of £100 per workshop, plus reasonable travel expenses.
 
 ## Apply
 

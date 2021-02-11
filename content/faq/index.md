@@ -28,8 +28,6 @@ Chromebooks, iPads, tablets and phones are unfortunately not suitable.
 
 Unfortunately we do not have the resources to provide laptops.
 
-Vivid Projects has a variety of audio and visual equipment but these are to be used on site and under supervision only.
-
 ### How does the selection process work?
 
 All applications will first be checked to make sure that they're eligible. Those that are will be reviewed by the programme team first individually, and then as a group.
@@ -37,7 +35,7 @@ All applications will first be checked to make sure that they're eligible. Those
 We will then contact successful applicants. At any of these stages we may contact applicants to ask for clarifications or further information.
 
 ### How many people will apply?
-This is the first time this development programme has been run, so unfortunately we can't predict how many will apply. However, because this is a paid training programme (that is, we pay you for taking part), we expect there to be a high number of applications.
+This is the first time this development programme has been run, so unfortunately we can't predict how many will apply. However, because this is a paid training programme (that is, we pay you for taking part), we expect to receive more eligible applications than we have places available.
 
 ### How many people will be chosen?
 Four
@@ -65,7 +63,7 @@ For this question we borrow the definition of Black from the [Black Ticket Proje
 > BTP define 'Black' as of Black African, Caribbean, Afro-Latinx and African-American heritage, including those of mixed-Black heritage who identify as such.
 
 ### Why can only people from the West Midlands apply?
-This is a pilot project that we would like to expand in the future, but for now we are interested in creating the opportunity for a local live coding community of practice to grow in the Birmingham area.
+This is a pilot project that we would like to expand in the future, but for now we are interested in creating the opportunity for a local live coding community of practice to grow in the West Midlands area.
 
 ### What is Vivid Projects like?
 > Vivid Projects is a non-profit company supporting media arts practice. Founded in 2012 and based in Birmingham, we encourage innovation, risk and experimentation in artistic practice. We are committed to a diversity of practice and encourage historic and contemporary engagement with cultural and sub-cultural histories. Our work is made public through an ambitious programme of events and exhibitions on and off-site, created in collaboration with artists, producers, thinkers and researchers.
