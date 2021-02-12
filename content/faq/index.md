@@ -74,6 +74,10 @@ The space is based on the first floor and currently there is no lift access.
 
 Vivid Projects has all necessary PPE including hand sanitisers and masks. Vivid Projects has a Covid protocols policy which is regularly updated following government guidelines. When on site we ask that you observe social distancing rules.
 
+### What will the researchers involved be doing?
+
+This project is funded by Music and the Internet: Towards a Digital Sociology of Music, which is led by the electronic music history researcher Christopher Haworth, and funded by UK Research and Innovation/Arts and Humanities Research Council. The project examines the changing social, political, aesthetic and communicative uses of the internet and digital technologies in electronic music from the mid-1990s to the present. The workshops are envisaged as a speculative and collaborative activity, designed to support artistic development and without particular research outcomes in mind. However the nature and potential future of live coding is little understood, and one outcome of the workshop is to identify interesting areas and questions for future research as well as arts practice.
+
 ### What impact will Coronavirus have on this programme?
 We are aware that the pandemic means things change quickly. Should Birmingham/the UK enter strict lockdown restrictions the programme will continue online.
 
