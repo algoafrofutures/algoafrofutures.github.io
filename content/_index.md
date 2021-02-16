@@ -4,7 +4,7 @@ date: 2021-01-21T15:13:36Z
 draft: false
 ---
 
-![banner](/banner.png)
+<img style="width:100%" src="/banner.png" />
 
 #### (Afro|Algo)futures is a mentoring programme for early career Black artists who want to explore the creative potential of live coding.
 
@@ -24,7 +24,7 @@ Over the 5/6 week programme you will participate in a mix of in-person workshops
 
 This opportunity is open for Black West Midlands-based artists only. A participation fee will be offered and travel expenses within the West Midlands will be covered.
 
-![algorave performance](/algorave-performance.jpg)
+<img style="width:100%" src="/algorave-performance.jpg" />
 
 ## Applicant profile
 
