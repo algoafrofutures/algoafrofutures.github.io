@@ -87,4 +87,6 @@ We have planned to include online exchange in the programme in any case, and we 
 We are able to provide reasonable travel expenses for travel within the West Midlands. Please [contact us](/contact) to discuss your circumstances and see how/if we can support.
 
 ### When are we given the participation fee?
-Participants will be given their participation fee after each workshop on the receipt of an invoice.
+
+Participants will be given their participation fee of £100 after each
+of four workshops, on the receipt of an invoice.
