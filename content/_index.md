@@ -10,13 +10,15 @@ draft: false
 
 #### Live coding is a performative practice where artists and musicians use code to create live music and live visuals. This is often done at electronic dance music events called Algoraves, but live coding is a technique rather than a genre, and has also been applied to noise music, choreography, live cinema, and many other time-based artforms.
 
-Learn more about live coding in the video below.
+<img style="width:100%" src="/algorave-performance.jpg" />
 
-{{< youtube h340aNznHnM >}}
+Since its inception in 2014 there have been hundreds of Algoraves taking place in over 100 cities and festivals around the world, including performances at Glastonbury, Sonar, SXSW, Bluedot, Mutek and Transmediale. There have been many events in Birmingham including audio/visual focussed parties at Vivid projects in Digbeth.
 
 ---
 
-Since its inception in 2014 there have been hundreds of Algoraves taking place in over 100 cities and festivals around the world, including performances at Glastonbury, Sonar, SXSW, Bluedot, Mutek and Transmediale. There have been many events in Birmingham including audio/visual focussed parties at Vivid projects in Digbeth.
+Learn more about live coding in the video below.
+
+{{< youtube h340aNznHnM >}}
 
 ## About the programme
 
@@ -24,7 +26,7 @@ Over the 5/6 week programme you will participate in a mix of in-person workshops
 
 This opportunity is open for Black West Midlands-based artists only. A participation fee will be offered and travel expenses within the West Midlands will be covered.
 
-<img style="width:100%" src="/algorave-performance.jpg" />
+
 
 ## Applicant profile
 
@@ -32,13 +34,13 @@ We are looking for applications from Black early career artists developing work 
 
 ## Key information
 
-(Afro|Algo) Futures will take place between April - June at Vivid Projects. Dates will be confirmed in response to lockdown restrictions and participant availability.
+(Afro|Algo) Futures will take place between April - June at Vivid Projects and will consist of four sessions. Dates will be confirmed in response to lockdown restrictions and participant availability.
 
 The call is open now until 23:59 on 28th February GMT. Applications submitted after this date will not be considered.
 
-Four successful applicants will be chosen to take part.
+Four successful applicants will be selected to take part.
 
-Each participant will be given a fee of £100 per workshop, plus reasonable travel expenses.
+Each participant will receive a fee of £100 per workshop, plus reasonable travel expenses.
 
 ## Apply
 
