@@ -8,7 +8,7 @@ draft: false
 
 ## Antonio Roberts
 
-![Antonio Roberts](/antonio-roberts.jpg)
+<img style="width:100%" src="/antonio-roberts.jpg" />
 
 Antonio Roberts is an artist and curator based in Birmingham, UK, working primarily with video, code, and sound. He is critically engaged with the themes surrounding network culture and in his practice explores how technology continues to shape ideas of creation, ownership, and authorship. As a performing visual artist and musician he utilises live coding techniques to demystify technology and reveal its design decisions, limitations, and creative potential.
 
@@ -16,7 +16,7 @@ Antonio Roberts is an artist and curator based in Birmingham, UK, working primar
 
 ## Alex McLean
 
-![Alex McLean](/alex-mclean.jpg)
+<img style="width:100%" src="/alex-mclean.jpg" />
 
 Alex McLean is an interdisciplinary researcher, software artist and musician based in Sheffield UK, working on interfaces for exploring Algorithmic Pattern, including the free/open source TidalCycles environment for live coding music, and weaving technologies as part of the five year ERC PENELOPE project lead by Ellen-Harlizius Klück in Deutsches Museum, Munich. He is active across the digital arts, including co-founding the TOPLAP and Algorave live coding/algorithmic music movements, the international conferences on live coding and live interfaces, and the AlgoMech festival of algorithmic and mechanical movement.
 
