@@ -22,7 +22,7 @@ Learn more about live coding in the video below.
 
 ## About the programme
 
-Over the 5/6 week programme you will participate in a mix of in-person workshops and asynchronous online discussion around live coding. The tutors will be Antonio Roberts and Alex McLean, two leading artists within live coding. More information about them and other partners can be read on the [Tutors](/tutors) page.
+Over the 5/6 week programme you will participate in a mix of in-person workshops and asynchronous online discussion around live coding. The mentors will be Antonio Roberts and Alex McLean, two leading artists within live coding. More information about them and other partners can be read on the [Mentors](/mentors) page.
 
 This opportunity is open for Black West Midlands-based artists only. A participation fee will be offered and travel expenses within the West Midlands will be covered.
 
