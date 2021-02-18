@@ -29,7 +29,7 @@ Questions about the programme may already have answers in the [FAQ](/faq). If in
 
 To apply to (Algo|Afro) Futures via video submission please submit a video of maximum five minutes in length that answers the above questions.
 
-To submit your video please upload your video to a host such as Dropbox, wetransfer, Vime or YouTube and send a link to the video to antonio@hellocatfood.com. If a password is required to access the video please share the password.
+To submit your video please upload your video to a host such as Dropbox, WeTransfer, Vimeo or YouTube and send a link to the video to Antonio Roberts at antonio@hellocatfood.com. If a password is required to access the video please share the password.
 
 ## Written submission
 
