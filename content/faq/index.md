@@ -28,6 +28,9 @@ Chromebooks, iPads, tablets and phones are unfortunately not suitable.
 
 Unfortunately we do not have the resources to provide laptops.
 
+### When is the closing date for applications?
+The call is open now until 23:59 on 14th March GMT. Applications submitted after this date will not be considered.
+
 ### How does the selection process work?
 
 All applications will first be checked to make sure that they're eligible. Those that are will be reviewed by the programme team first individually, and then as a group.
