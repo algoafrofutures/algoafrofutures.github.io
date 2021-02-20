@@ -84,6 +84,8 @@ This project is funded by Music and the Internet: Towards a Digital Sociology of
 ### What impact will Coronavirus have on this programme?
 We are aware that the pandemic means things change quickly. Should Birmingham/the UK enter strict lockdown restrictions the programme will continue online.
 
+We're also aware that, even if lockdown restrictions are eased, people may not feel comfortable meeting with others in a group. Once the applicants have been chosen we will take this into consideration and plan the sessions accordingly.
+
 We have planned to include online exchange in the programme in any case, and we will utilise a mixture of online video chats, instant messaging and a forum. Nonetheless we are mindful of the fatigue many are feeling around online interaction and will bear this in mind when planning sessions.
 
 ### Do you provide expenses?
