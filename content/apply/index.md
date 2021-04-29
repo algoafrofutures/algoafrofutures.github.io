@@ -4,7 +4,9 @@ date: 2021-01-21T16:16:35Z
 draft: false
 ---
 
-Applications to (Algo|Afro) Futures can be made by written or video submission. The call is open now until 23:59 on 14th March GMT. Applications submitted after this date will not be considered. The questions to be answered are referenced below:
+Applications to (Algo|Afro) Futures closed on 23:59 on 14th March GMT. Thanks to all those that applied. We're hoping that the programme will run again in the future so please check back for further information.
+
+The questions to be answered are referenced below:
 
 1. Name
 
