@@ -4,6 +4,8 @@ date: 2021-04-29T16:16:35Z
 draft: false
 ---
 
+We're very happy to announce the artists selected for the (Algo|Afro) Futures programme, who will be approaching live coding from diverse range of practices including spoken word, digital art and electronic music.
+
 ## Rosa Francesca
 She/Her
 
