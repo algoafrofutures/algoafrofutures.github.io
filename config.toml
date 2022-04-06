@@ -17,8 +17,12 @@ theme = "hugo-researcher"
     url = "/faq"
     weight = 3
   [[menu.main]]
-    name = "Artists"
+    name = "2022 Artists"
     url = "/artists"
+    weight = 4
+  [[menu.main]]
+    name = "2021 Artists"
+    url = "/2021-artists"
     weight = 4
   [[menu.main]]
     name = "Tutors"
