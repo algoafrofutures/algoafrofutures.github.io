@@ -41,7 +41,7 @@ We will then contact successful applicants. At any of these stages we may contac
 This is the first time this development programme has been run, so unfortunately we can't predict how many will apply. However, because this is a paid training programme (that is, we pay you for taking part), we expect to receive more eligible applications than we have places available.
 
 ### How many people will be chosen?
-Four
+Up to ten.
 
 ### Can I apply as a collective?
 While we recognise that many artists and musicians work in groups, the focus of this programme is on the development of individuals, so unfortunately collectives/groups cannot apply.

@@ -1,10 +1,13 @@
 ---
-title: "Artists"
+title: "2021 Artists"
 date: 2021-04-29T16:16:35Z
 draft: false
 ---
 
-We're very happy to announce the artists selected for the (Algo|Afro) Futures programme, who will be approaching live coding from diverse range of practices including spoken word, digital art and electronic music.
+## Showcase event
+The showcase event took place on 23rd July 2021 at Vivid Projects and showcased live coding works and performances from the 2021 cohort Samiir Saunders, Jae Tallawah, Rosa Francesca, and Emily Mulenga.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OenTVK_AW0Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Rosa Francesca
 She/Her
