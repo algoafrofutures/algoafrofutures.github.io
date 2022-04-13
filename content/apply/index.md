@@ -4,7 +4,7 @@ date: 2021-01-21T16:16:35Z
 draft: false
 ---
 
-Applications to (Algo|Afro) Futures closed on 23:59 on 14th March GMT. Thanks to all those that applied. We're hoping that the programme will run again in the future so please check back for further information.
+Applications to (Algo|Afro) Futures are open from Thursday 14th April to Tuesday 3rd May 17:00 BST. Applications submitted after this date will not be considered.
 
 The questions to be answered are referenced below:
 

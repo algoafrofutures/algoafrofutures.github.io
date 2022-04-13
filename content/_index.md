@@ -35,7 +35,7 @@ We are looking for applications from Black early career artists developing work 
 
 (Algo|Afro) Futures will take place between May - August at Vivid Projects and will consist of five workshops and one live performance. Dates will be confirmed in response to participant availability.
 
-The call is open now until 23:59 on 14th March GMT. Applications submitted after this date will not be considered.
+The call is open from Thursday 14th April to Tuesday 3rd May 17:00 BST. Applications submitted after this date will not be considered.
 
 Uo to ten successful applicants will be selected to take part.
 
