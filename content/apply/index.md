@@ -36,4 +36,6 @@ To submit your video please upload your video to a host such as Dropbox, WeTrans
 
 To apply to (Algo|Afro) Futures in writing please fill in the form below. The form does not save your progress, so we recommend writing your responses in a separate document and copy/pasting them into the form when you're ready to submit.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeffQnXfrPB_vy8MV71LrRG41Ocsj_i8NjfSMGkWcmrABWu_g/viewform?embedded=true" width="700" height="1399" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeb-D_rh_QVzdAZdq3PolalcShBkVR9DXafAeyfXLidPKE-hg/viewform?embedded=true" width="700" height="1399" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+

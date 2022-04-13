@@ -22,10 +22,9 @@ Learn more about live coding in the video below.
 
 ## About the programme
 
-Over the 5/6 week programme you will participate in a mix of in-person workshops and asynchronous online discussion around live coding. The mentors will be Antonio Roberts and Alex McLean, two leading artists within live coding. More information about them and other partners can be read on the [Mentors](/mentors) page.
+Over the 5/6 week programme you will participate in a mix of in-person workshops and asynchronous online discussion around live coding. The mentors will be Antonio Roberts, Gary Stewart and Alex McLean. More information about them and other partners can be read on the [Mentors](/mentors) page.
 
-This opportunity is open for Black West Midlands-based artists only. A participation fee will be offered and travel expenses within the West Midlands will be covered.
-
+This opportunity is open for Black West Midlands-based artists only. Participants will be offered a bursary for their participation.
 
 
 ## Applicant profile
@@ -34,13 +33,13 @@ We are looking for applications from Black early career artists developing work 
 
 ## Key information
 
-(Algo|Afro) Futures will take place between April - June at Vivid Projects and will consist of four sessions. Dates will be confirmed in response to lockdown restrictions and participant availability.
+(Algo|Afro) Futures will take place between May - August at Vivid Projects and will consist of five workshops and one live performance. Dates will be confirmed in response to participant availability.
 
 The call is open now until 23:59 on 14th March GMT. Applications submitted after this date will not be considered.
 
-Four successful applicants will be selected to take part.
+Uo to ten successful applicants will be selected to take part.
 
-Each participant will receive a fee of £100 per workshop, plus reasonable travel expenses.
+Each participant will receive a fee of £100 per workshop.
 
 ## Apply
 
