@@ -28,7 +28,7 @@ He is a founder member of London based artist, research, and performance group D
 
 <img style="width:100%" src="/alex-mclean.jpg" />
 
-Alex McLean is an interdisciplinary researcher, software artist and musician based in Sheffield UK, working on interfaces for exploring Algorithmic Pattern, including the free/open source TidalCycles environment for live coding music, and weaving technologies as part of the five year ERC PENELOPE project lead by Ellen-Harlizius Klück in Deutsches Museum, Munich. He is active across the digital arts, including co-founding the TOPLAP and Algorave live coding/algorithmic music movements, the international conferences on live coding and live interfaces, and the AlgoMech festival of algorithmic and mechanical movement.
+Alex McLean is an interdisciplinary researcher, software artist and musician based in Sheffield UK, working as part of the Cornwall-based non-profit research lab [Then Try This](https://thentrythis.org). His current work on "algorithmic patterns" explores heritage algorithms, looking for patterns for enhancing contemporary technologies including in music, choreography and textiles. He is active across the digital arts, including co-founding the TOPLAP and Algorave live coding/algorithmic music movements, the international conferences on live coding and live interfaces, and the AlgoMech festival of algorithmic and mechanical movement, and instigating the TidalCycles and StrudelCycles live coding environments.
 
 Alex McLean's work on this project is supported by a UKRI Future Leaders Fellowship [grant number MR/V025260/1].
 
@@ -36,12 +36,11 @@ Alex McLean's work on this project is supported by a UKRI Future Leaders Fellows
 
 # Partners
 
-## FoAM Kernow
+## Then Try This
 
+(Afro|Algo)futures is co-organised with Then Try This, a non-profit company working towards a world with equitable access to knowledge, where thoughtful tools and interventions help us play with complexity and make better decisions, and environmental and social issues are centred and addressed with urgency.
 
-(Afro|Algo)futures is co-organised with FoAM Kernow, a non-profit company working towards a world with equitable access to knowledge, where thoughtful tools and interventions help us play with complexity and make better decisions, and environmental and social issues are centred and addressed with urgency.
-
-[https://fo.am/kernow](https://fo.am/kernow)
+[https://thentrythis.org](https://thentrythis.org)
 
 ## Vivid Projects
 
