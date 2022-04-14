@@ -1,10 +1,10 @@
 ---
-title: "Mentors"
+title: "Tutors"
 date: 2021-01-21T15:13:36Z
 draft: false
 ---
 
-# Mentors
+# Tutors
 
 ## Antonio Roberts
 
@@ -14,20 +14,27 @@ Antonio Roberts is an artist and curator based in Birmingham, UK, working primar
 
 [hellocatfood.com](https://hellocatfood.com)
 
+## Gary Stewart
+
+<img style="width:100%" src="/gary-stewart.jpg" />
+
+Gary Stewart (b.1961.Birmingham, UK) is an interdisciplinary artist working at the intersection of sound, moving image and computational creativity. For several decades he has been involved in pioneering initiatives and projects around the world that explore and examine social and political issues of identity, culture, technology and creativity. Through the application of innovative technologies and practices based on informal, networked, peer-led shared learning he is part of a growing global network of collaborators who are advocates for equality, climate justice and better health through the arts particularly those from marginalised communities. Operating through a range of theoretical, fictional and artistic frames his work interrogates how we might establish meaningful connections with disenfranchised groups in society and to provide ways for them to construct their own spaces of memory so that their voices can be heard.
+
+He is a founder member of London based artist, research and performance group Dubmorphology and Part Time Lecturer in Fine Art (Studio Practice) at Goldsmiths, University of London.
+
+[dubmorphology.net](http://www.dubmorphology.net/)
+
 ## Alex McLean
 
 <img style="width:100%" src="/alex-mclean.jpg" />
 
 Alex McLean is an interdisciplinary researcher, software artist and musician based in Sheffield UK, working on interfaces for exploring Algorithmic Pattern, including the free/open source TidalCycles environment for live coding music, and weaving technologies as part of the five year ERC PENELOPE project lead by Ellen-Harlizius Klück in Deutsches Museum, Munich. He is active across the digital arts, including co-founding the TOPLAP and Algorave live coding/algorithmic music movements, the international conferences on live coding and live interfaces, and the AlgoMech festival of algorithmic and mechanical movement.
 
+Alex McLean's work on this project is supported by a UKRI Future Leaders Fellowship [grant number MR/V025260/1].
+
 [slab.org](https://slab.org)
 
 # Partners
-
-(Afro|Algo)futures is being run as part of the AHRC funded research project, Music and the Internet: Towards a Digital Sociology of Music. DIGSOCMUS is an interdisciplinary research project that aims to provide the first comprehensive analysis of the changing cultural roles of the internet in electronic music. The project takes as its historical focus a twenty-year period ranging from the early take up of the world wide web to the present day world of social media platforms, and aims to understand the extent to which uses of the internet have affected or contributed to
-1. greater boundary crossing between 'art' and 'popular' musics;
-2. an expansion or diversification of contemporary genres in terms of their geographical reach or representation; and
-3. transformations in the institutions that provide for the production and distribution of music.
 
 ## FoAM Kernow
 
@@ -41,11 +48,3 @@ Alex McLean is an interdisciplinary researcher, software artist and musician bas
 The project is run in partnership with Vivid Projects, a non-profit company supporting media arts practice. Founded in 2012 and based in Birmingham, we encourage innovation, risk and experimentation in artistic practice. We are committed to a diversity of practice and encourage historic and contemporary engagement with cultural and sub-cultural histories. Our work is made public through an ambitious programme of events and exhibitions on and off-site, created in collaboration with artists, producers, thinkers and researchers.
 
 [http://www.vividprojects.org.uk](http://www.vividprojects.org.uk)
-
-## Christopher Haworth
-
-Christopher Haworth researches the history of electronic music as it is practiced, theorised, taught and experienced, and he does this using a mixture of historical, ethnographic, interpretive and data-driven methods.
-
-## Ed Spencer
-
-Ed Spencer researches Electronic Dance Music (EDM) and its entanglements with the Internet. He explores EDM memes, trolling practices, and the record label PC Music. His work is interdisciplinary and involves methods such as digital ethnography, webometrics, and analysis of music and the moving image.

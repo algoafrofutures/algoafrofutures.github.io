@@ -25,8 +25,8 @@ theme = "hugo-researcher"
     url = "/2021-artists"
     weight = 5
   [[menu.main]]
-    name = "Tutors"
-    url = "/tutors"
+    name = "Mentors"
+    url = "/mentors"
     weight = 6
   [[menu.main]]
     name = "Contact"
