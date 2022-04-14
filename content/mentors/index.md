@@ -18,11 +18,11 @@ Antonio Roberts is an artist and curator based in Birmingham, UK, working primar
 
 <img style="width:100%" src="/gary-stewart.jpg" />
 
-Gary Stewart (b.1961.Birmingham, UK) is an interdisciplinary artist working at the intersection of sound, moving image and computational creativity. For several decades he has been involved in pioneering initiatives and projects around the world that explore and examine social and political issues of identity, culture, technology and creativity. Through the application of innovative technologies and practices based on informal, networked, peer-led shared learning he is part of a growing global network of collaborators who are advocates for equality, climate justice and better health through the arts particularly those from marginalised communities. Operating through a range of theoretical, fictional and artistic frames his work interrogates how we might establish meaningful connections with disenfranchised groups in society and to provide ways for them to construct their own spaces of memory so that their voices can be heard.
+Gary Stewart is an artist working at the intersection of sound, moving image and computational creativity. His work examines social and political issues of identity, culture, and technology. Through the application of innovative technologies and practices based on networked, peer-led shared learning he is part of a network of collaborators who are advocates for equality, climate justice and better health through the arts especially those from marginalised communities. Operating through a range of theoretical, fictional, and artistic frames his work looks at how we might establish meaningful connections with disenfranchised groups in society which provide a way for them to construct their own spaces of memory so that their voices can be heard.
 
-He is a founder member of London based artist, research and performance group Dubmorphology and Part Time Lecturer in Fine Art (Studio Practice) at Goldsmiths, University of London.
+He is a founder member of London based artist, research, and performance group Dubmorphology and Part-Time Lecturer in Fine Art at Goldsmiths, University of London.
 
-[dubmorphology.net](http://www.dubmorphology.net/)
+[garystewart.org ](http://www.garystewart.org)
 
 ## Alex McLean
 

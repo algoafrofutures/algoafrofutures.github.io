@@ -7,7 +7,6 @@ draft: false
 ## FAQ
 
 ### What can I expect to be doing as part of this programme?
-
 The main contact through the programme will be five workshop sessions of at least three hours each. The workshops will take place at in Vivid Projects in Birmingham.
 
 In addition we expect participants to spend additional time outside the workshop sessions, with the opportunity for one-to-one mentoring with the tutors, and to perform live at an event at the end of the project. Overall we will look for a time commitment equivalent to at least five days' work spread over the five weeks of the project, but you are of course free invest to much more of your time.
@@ -25,14 +24,12 @@ We will be installing software, which will require you to have full administrato
 Chromebooks, iPads, tablets and phones are unfortunately not suitable.
 
 ### Can you provide laptops or equipment?
-
 Unfortunately we do not have the resources to provide laptops.
 
 ### When is the closing date for applications?
 The call is open from Thursday 14th April to Tuesday 3rd May 17:00 BST. Applications submitted after this date will not be considered.
 
 ### How does the selection process work?
-
 All applications will first be checked to make sure that they're eligible. Those that are will be reviewed by the programme team first individually, and then as a group.
 
 We will then contact successful applicants. At any of these stages we may contact applicants to ask for clarifications or further information.
@@ -63,18 +60,11 @@ For this question we borrow the definition of Black from the [Black Ticket Proje
 ### Why can only people from the West Midlands apply?
 This is a pilot project that we would like to expand in the future, but for now we are interested in creating the opportunity for a local live coding community of practice to grow in the West Midlands area.
 
-### What is Vivid Projects like?
-> Vivid Projects is a non-profit company supporting media arts practice. Founded in 2012 and based in Birmingham, we encourage innovation, risk and experimentation in artistic practice. We are committed to a diversity of practice and encourage historic and contemporary engagement with cultural and sub-cultural histories. Our work is made public through an ambitious programme of events and exhibitions on and off-site, created in collaboration with artists, producers, thinkers and researchers.
-
-Various photos of the space over the years can be seen here [http://www.vividprojects.org.uk/hire/](http://www.vividprojects.org.uk/hire/)
-
-The space is based on the first floor and currently there is no lift access.
-
-Vivid Projects has all necessary PPE including hand sanitisers and masks. Vivid Projects has a Covid protocols policy which is regularly updated following government guidelines. When on site we ask that you observe social distancing rules.
-
 ### Do you provide expenses?
-We are able to provide reasonable travel expenses for travel within the West Midlands. Please [contact us](/contact) to discuss your circumstances and see how/if we can support.
+Each projecft participant is supported by a £500 bursary which covers participation in five workshops and a final event. This bursary is expected to cover travel costs.
 
-### When are we given the participation fee?
+### When are we given the bursary?
+Participants will be given their bursary two installments, at the beginnig of the programme and towards the end of the programme
 
-Participants will be given their participation fee of £100 after each of four workshops, on the receipt of an invoice.
+### How is the project funded?
+(Algo|Afro) Futures is funded by Birimingham City Council as a Creative City project, part of Birmingham 2022.
