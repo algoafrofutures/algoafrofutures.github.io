@@ -30,6 +30,8 @@ He is a founder member of London based artist, research and performance group Du
 
 Alex McLean is an interdisciplinary researcher, software artist and musician based in Sheffield UK, working on interfaces for exploring Algorithmic Pattern, including the free/open source TidalCycles environment for live coding music, and weaving technologies as part of the five year ERC PENELOPE project lead by Ellen-Harlizius Klück in Deutsches Museum, Munich. He is active across the digital arts, including co-founding the TOPLAP and Algorave live coding/algorithmic music movements, the international conferences on live coding and live interfaces, and the AlgoMech festival of algorithmic and mechanical movement.
 
+Alex McLean's work on this project is supported by a UKRI Future Leaders Fellowship [grant number MR/V025260/1].
+
 [slab.org](https://slab.org)
 
 # Partners

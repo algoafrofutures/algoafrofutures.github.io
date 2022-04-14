@@ -6,7 +6,7 @@ draft: false
 
 <img style="width:100%" src="/banner.png" />
 
-#### (Algo|Afro)futures is a mentoring programme for early career Black artists who want to explore the creative potential of live coding.
+#### (Algo|Afro) Futures is a mentoring programme for early career Black artists who want to explore the creative potential of live coding.
 
 #### Live coding is a performative practice where artists and musicians use code to create live music and live visuals. This is often done at electronic dance music events called Algoraves, but live coding is a technique rather than a genre, and has also been applied to noise music, choreography, live cinema, and many other time-based artforms.
 
@@ -84,7 +84,5 @@ text-align: center;
 
 <hr />
 <center>
-<a href="https://fo.am/kernow/"><img src="/foam.jpg" style="width:20%;display:inline" /></a><a href="http://www.vividprojects.org.uk/"><img src="/vivid_projects_logo.png" style="width:12%;display:inline; margin: 3em 3em" /></a><a href="https://www.ukri.org/"><img src="/UKRI+logo.png" style="width:25%;display:inline" /></a><br />
-<p><em>These workshops are supported by the AHRC Leadership Fellowship project <a href="https://www.birmingham.ac.uk/research/lcahm/projects/music-and-the-internet.aspx">Music and the Internet: Towards a digital sociology of music</a>, which is funded by the UKRI.</em>
-</p>
+<a href="https://thentrythis.org"><img src="/thentrythis.png" style="width:20%;display:inline" /></a><a href="http://www.vividprojects.org.uk/"><img src="/vivid_projects_logo.png" style="width:12%;display:inline; margin: 3em 3em" /></a><a href="https://www.ukri.org/"><img src="/UKRI+logo.png" style="width:25%;display:inline" /></a><img src="/cwg_logo.png" style="width:25%;display:inline" /><br />
 </center>
