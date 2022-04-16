@@ -9,6 +9,8 @@ draft: false
 ### What can I expect to be doing as part of this programme?
 The main contact through the programme will be five workshop sessions of at least three hours each. The workshops will take place at in Vivid Projects in Birmingham.
 
+These workshops will take place on five Saturdays between May - July to be decided based on participant availability.
+
 In addition we expect participants to spend additional time outside the workshop sessions, with the opportunity for one-to-one mentoring with the tutors, and to perform live at an event at the end of the project. Overall we will look for a time commitment equivalent to at least five days' work spread over the five weeks of the project, but you are of course free invest to much more of your time.
 
 We will provide a clear structure for the programme, however this is also an opportunity for you to do something new, so will be happy to look at changing the shape of the programme to fit your goals and artistic outcomes.
@@ -61,7 +63,7 @@ For this question we borrow the definition of Black from the [Black Ticket Proje
 This is a pilot project that we would like to expand in the future, but for now we are interested in creating the opportunity for a local live coding community of practice to grow in the West Midlands area.
 
 ### Do you provide expenses?
-Each projecft participant is supported by a £500 bursary which covers participation in five workshops and a final event. This bursary is expected to cover travel costs.
+Each participant is supported by a £500 bursary which covers participation in five workshops and a final event. This bursary is expected to cover travel costs.
 
 ### When are we given the bursary?
 Participants will be given their bursary two installments, at the beginnig of the programme and towards the end of the programme

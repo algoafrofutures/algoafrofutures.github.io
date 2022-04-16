@@ -20,12 +20,17 @@ Learn more about live coding in the video below.
 
 {{< youtube h340aNznHnM >}}
 
+You can also read these features on live coding
+
+* So different, genuinely fun: Exploring 10 years of algorave - [https://mixmag.net/feature/algorave-live-coding-musical-movement-10-years-interview](https://mixmag.net/feature/algorave-live-coding-musical-movement-10-years-interview)
+* Algoraves Put Live Performance Into Programming [https://www.sxsw.com/world/2019/algoraves-put-live-performance-into-programming/](https://www.sxsw.com/world/2019/algoraves-put-live-performance-into-programming/)
+* Inside the livecoding algorave movement, and what it says about music - [https://cdm.link/2018/05/inside-the-livecoding-algorave-movement-and-what-it-says-about-music/](https://cdm.link/2018/05/inside-the-livecoding-algorave-movement-and-what-it-says-about-music/)
+
 ## About the programme
 
 Over the 5/6 week programme you will participate in a mix of in-person workshops and asynchronous online discussion around live coding. The mentors will be Antonio Roberts, Gary Stewart and Alex McLean. More information about them and other partners can be read on the [Mentors](/mentors) page.
 
-This opportunity is open for Black West Midlands-based artists only. Participants will be offered a bursary for their participation.
-
+This opportunity is open for Black West Midlands-based artists only.
 
 ## Applicant profile
 
@@ -33,13 +38,13 @@ We are looking for applications from Black early career artists developing work 
 
 ## Key information
 
-(Algo|Afro) Futures will take place between May - August at Vivid Projects and will consist of five workshops and one live performance. Dates will be confirmed in response to participant availability.
+(Algo|Afro) Futures will take place between May - August at Vivid Projects and will consist of five workshops taking place on Saturdays and one live performance. Dates will be confirmed in response to participant availability.
 
 The call is open from Thursday 14th April to Tuesday 3rd May 17:00 BST. Applications submitted after this date will not be considered.
 
-Uo to ten successful applicants will be selected to take part.
+Up to ten successful applicants will be selected to take part.
 
-Each participant will receive a fee of £100 per workshop.
+Each participant will receive a £500 bursary (£100 per workshop).
 
 ## Apply
 
