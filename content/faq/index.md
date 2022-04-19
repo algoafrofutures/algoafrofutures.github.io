@@ -42,6 +42,12 @@ Up to ten.
 ### Can I apply as a collective?
 While we recognise that many artists and musicians work in groups, the focus of this programme is on the development of individuals, so unfortunately collectives/groups cannot apply.
 
+### Are there age restrictions?
+This programme is for people aged 18 and above. There is no upper age limit.
+
+### Can students apply?
+Yes. Students at any stage of their education can apply, as long as they are aged 18 and above.
+
 ### How do you define early career artists?
 For this question we borrow from [Jerwood Arts's defintion](https://jerwoodarts.org/faq/):
 
