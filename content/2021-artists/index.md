@@ -7,9 +7,12 @@ draft: false
 ## Showcase event
 The showcase event took place on 23rd July 2021 at Vivid Projects and showcased live coding works and performances from the 2021 cohort Samiir Saunders, Jae Tallawah, Rosa Francesca, and Emily Mulenga.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OenTVK_AW0Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube OenTVK_AW0Y >}}
 
+{{< load-photoswipe >}}
 {{< gallery dir="/2021-showcase/" />}}
+
+# Artists
 
 ## Rosa Francesca
 She/Her
