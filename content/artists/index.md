@@ -9,6 +9,7 @@ The showcase event took place on 5th August 2022 at Vivid Projects and showcased
 
 {{< youtube PaUVUM6H9ug >}}
 
+Photos by [Jodi Cunningham](https://www.jodiphotography.co.uk)
 {{< load-photoswipe >}}
 {{< gallery dir="/2022-showcase/" />}}
 
