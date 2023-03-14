@@ -61,7 +61,7 @@ Live coding is a developing practice that is in need of diverse perspectives in 
 Although this project responds to the lack of Black representation in the live coding and Algorave scene we don’t necessarily intend to 'solve' that problem. Instead we want to provide early career artists with the time and resources to explore live coding and algorithmic music/art, and take it in whatever directions they want to (or not!). In the process we can learn about what barriers and opportunities there are for those futures.
 
 ### How do you define "Black"?
-For this question we borrow the definition of Black from the [Black Ticket Project](https://royalcourttheatre.com/black-ticket-project/):
+For this question we borrow the definition of Black from the [Black Ticket Project](https://royalcourttheatre.com/black-ticket-project/)
 
 > BTP define 'Black' as of Black African, Caribbean, Afro-Latinx and African-American heritage, including those of mixed-Black heritage who identify as such.
 
