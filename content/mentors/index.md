@@ -14,7 +14,7 @@ Antonio Roberts is an artist and curator based in Birmingham, UK, working primar
 
 [hellocatfood.com](https://hellocatfood.com)
 
-## Gary Stewart
+## Tyger blue
 
 <img style="width:100%" src="/gary-stewart.jpg" />
 
