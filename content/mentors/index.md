@@ -14,15 +14,13 @@ Antonio Roberts is an artist and curator based in Birmingham, UK, working primar
 
 [hellocatfood.com](https://hellocatfood.com)
 
-## Tyger blue
+## Tyger Blue
 
 <img style="width:100%" src="/gary-stewart.jpg" />
 
-Gary Stewart is an artist working at the intersection of sound, moving image and computational creativity. His work examines social and political issues of identity, culture, and technology. Through the application of innovative technologies and practices based on networked, peer-led shared learning he is part of a network of collaborators who are advocates for equality, climate justice and better health through the arts especially those from marginalised communities. Operating through a range of theoretical, fictional, and artistic frames his work looks at how we might establish meaningful connections with disenfranchised groups in society which provide a way for them to construct their own spaces of memory so that their voices can be heard.
+Tyger Blue is a UK based worker in rhythms, frequency and intensity. His vision is to extend the understanding of the transformative powers of computational art, to challenge perception through individual, collective and institutional change. He enjoys working with experimental software such as TidalCycles to curate otherworldly sonic experiences and unlock new found potentials within electronic music.
 
-He is a founder member of London based artist, research, and performance group Dubmorphology and Part-Time Lecturer in Fine Art at Goldsmiths, University of London.
-
-[garystewart.org ](http://www.garystewart.org)
+[https://www.instagram.com/tygerblue_/)
 
 ## Alex McLean
 
