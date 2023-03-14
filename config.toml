@@ -17,21 +17,17 @@ theme = "hugo-researcher"
     url = "/faq"
     weight = 3
   [[menu.main]]
-    name = "2022 Artists"
+    name = "Artists"
     url = "/artists"
     weight = 4
   [[menu.main]]
-    name = "2021 Artists"
-    url = "/2021-artists"
-    weight = 5
-  [[menu.main]]
     name = "Mentors"
     url = "/mentors"
-    weight = 6
+    weight = 5
   [[menu.main]]
     name = "Contact"
     url = "/contact"
-    weight = 7
+    weight = 6
 
 [markup.goldmark.renderer]
   unsafe = true  # allow raw HTML in markdown files
