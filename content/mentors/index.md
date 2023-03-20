@@ -16,7 +16,7 @@ Antonio Roberts is an artist and curator based in Birmingham, UK, working primar
 
 ## Tyger Blue
 
-<img style="width:100%" src="/gary-stewart.jpg" />
+<img style="width:100%" src="/tyger_blue_profile.jpg" />
 
 Tyger Blue is a UK based worker in rhythms, frequency and intensity. His vision is to extend the understanding of the transformative powers of computational art, to challenge perception through individual, collective and institutional change. He enjoys working with experimental software such as TidalCycles to curate otherworldly sonic experiences and unlock new found potentials within electronic music.
 
