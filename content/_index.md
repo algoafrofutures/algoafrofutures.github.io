@@ -6,7 +6,7 @@ draft: false
 
 <img style="width:100%" src="/banner.png" />
 
-#### (Algo|Afro) Futures is a mentoring programme for early career Black artists who want to explore the creative potential of live coding.
+#### (Algo|Afro) Futures is a mentoring programme for early career Black artists who want to explore creative coding and live coding.
 
 #### Live coding is a performative practice where artists and musicians use code to create live music and live visuals. This is often done at electronic dance music events called Algoraves, but live coding is a technique rather than a genre, and has also been applied to noise music, choreography, live cinema, and many other time-based artforms.
 
@@ -28,9 +28,9 @@ You can also read these features on live coding
 
 ## About the programme
 
-Over the 5/6 week programme you will participate in a mix of in-person workshops and asynchronous online discussion around live coding. The mentors will be Antonio Roberts, Gary Stewart and Alex McLean. More information about them and other partners can be read on the [Mentors](/mentors) page.
+During the programme you will participate in a mix of in-person workshops and asynchronous online discussion around live coding. The mentors will be Antonio Roberts and Tyger Blue. More information about them and other partners can be read on the [About](/about) page.
 
-This opportunity is open for Black West Midlands-based artists only.
+This opportunity is open to Black artists only.
 
 ## Applicant profile
 
@@ -38,13 +38,13 @@ We are looking for applications from Black early career artists developing work 
 
 ## Key information
 
-(Algo|Afro) Futures will take place between May - August at Vivid Projects and will consist of five workshops taking place on Saturdays and one live performance. Dates will be confirmed in response to participant availability.
+(Algo|Afro) Futures will take place between June - August at Vivid Projects and will consist of five workshops taking place on Saturdays and one live performance. Dates are available on the [Mentoring Programme](/mentoring-programme) page.
 
-The call is open from Thursday 14th April to Tuesday 3rd May 17:00 BST. Applications submitted after this date will not be considered.
+The call is open from Wednesday 12th April to Friday 5th May 17:00 BST. Applications submitted after this date will not be considered.
 
-Up to ten successful applicants will be selected to take part.
+Up to eight successful applicants will be selected to take part.
 
-Each participant will receive a £500 bursary (£100 per workshop).
+Each participant will receive a £500 bursary.
 
 ## Apply
 
@@ -89,5 +89,5 @@ text-align: center;
 
 <hr />
 <center>
-<a href="https://thentrythis.org"><img src="/thentrythis.png" style="width:20%;display:inline" /></a><a href="http://www.vividprojects.org.uk/"><img src="/vivid_projects_logo.png" style="width:12%;display:inline; margin: 3em 3em" /></a><a href="https://www.ukri.org/"><img src="/UKRI+logo.png" style="width:25%;display:inline" /></a><img src="/cwg_logo.png" style="width:25%;display:inline" /><br />
+<a href="http://www.vividprojects.org.uk/"><img src="/vivid_projects_logo.png" style="width:12%;display:inline; margin: 3em 3em" /></a>
 </center>
