@@ -4,25 +4,50 @@ date: 2021-01-21T16:16:35Z
 draft: false
 ---
 
-Applications to (Algo|Afro) Futures are open from Thursday 14th April to Tuesday 3rd May 17:00 BST. Applications submitted after this date will not be considered.
+Applications to (Algo|Afro) Futures are open from Thursday 12th April to Friday 5th May 17:00 BST. Applications submitted after this date will not be considered.
 
 The questions to be answered are referenced below:
 
 1. Name
 
+2. E-mail address
+
 2. Please enter your post code
+
 *This will be used to check eligibility*
 
 3. Why do you want to be involved? (up to 200 words)
+
 *We're interested to know what interests you about live coding and what you hope to gain from the programme.*
 
 4. Please describe your practice (up to 200 words)
+
 *Are there any concepts, themes or questions that run throughout your work? We are looking for early-career artists so don't expect this to be crystal clear!*
 
-5. Please share links that describe your music/creative practice
+5. Please share links that showcase your music/creative practice
+
 *If passwords are required please share those*
 
-6. Do you consider yourself to be Black, which we describe as being Black African, Caribbean, Afro-Latinx and African-American heritage, including those of mixed-Black heritage who identify as such?
+6. Are you able to attend the dates of the workshops and the live performance? These are currently set for:
+
+Workshops:
+
+* 10th - June
+* 24th - June
+* 8th - July
+* 15th - July
+* 22nd - July
+
+Final performance:
+
+* 4th August
+
+7. If you said 'No' or 'Maybe', which dates are you unable to attend? 
+
+*We're open to conversations about partial participation, but we would expect you attend most of the programme and the final performance. If you have any questions please contact us.*
+
+7. Do you consider yourself to be Black, which we describe as being Black African, Caribbean, Afro-Latinx and African-American heritage, including those of mixed-Black heritage who identify as such?
+*Yes/No
 
 Questions about the programme may already have answers in the [FAQ](/faq). If in doubt please contact us.
 
