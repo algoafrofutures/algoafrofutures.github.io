@@ -9,25 +9,21 @@ theme = "hugo-researcher"
     url = "/"
     weight = 1
   [[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 2
+  [[menu.main]]
     name = "Apply"
     url = "/apply"
-    weight = 2
+    weight = 3
   [[menu.main]]
     name = "FAQ"
     url = "/faq"
-    weight = 3
-  [[menu.main]]
-    name = "Artists"
-    url = "/artists"
     weight = 4
   [[menu.main]]
-    name = "Mentors"
-    url = "/mentors"
+    name = "Mentoring Programme"
+    url = "/mentoring-programme"
     weight = 5
-  [[menu.main]]
-    name = "Contact"
-    url = "/contact"
-    weight = 6
 
 [markup.goldmark.renderer]
   unsafe = true  # allow raw HTML in markdown files
