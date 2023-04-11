@@ -7,18 +7,39 @@ draft: false
 ## FAQ
 
 ### What can I expect to be doing as part of this programme?
-The main contact through the programme will be five workshop sessions of at least three hours each. The workshops will take place at in Vivid Projects in Birmingham.
+The main contact through the programme will be five workshop sessions of at least three hours each. The workshops will take place at [Vivid Projects](https://vividprojects.org.uk) in Birmingham.
 
-These workshops will take place on five Saturdays between May - July to be decided based on participant availability.
+In addition we expect participants to spend additional time outside the workshop sessions, with the opportunity for one-to-one mentoring with the tutors and to perform live at an event at the end of the project. 
 
-In addition we expect participants to spend additional time outside the workshop sessions, with the opportunity for one-to-one mentoring with the tutors, and to perform live at an event at the end of the project. Overall we will look for a time commitment equivalent to at least five days' work spread over the five weeks of the project, but you are of course free invest to much more of your time.
+Overall we will look for a time commitment equivalent to at least five days' work spread over the five weeks of the project, but you are of course free to invest much more of your time.
 
-We will provide a clear structure for the programme, however this is also an opportunity for you to do something new, so will be happy to look at changing the shape of the programme to fit your goals and artistic outcomes.
+We will provide a clear structure for the programme, however this is also an opportunity for you to do something new, so will be happy to look at adapting the shape of the programme to fit your goals and artistic outcomes.
 
-We anticipate really varied levels of experience, there's no need to have any experience with computer programming or making music or art. We'll introduce you to all that, get you up to speed and support you in taking it further/integrating with your existing artistic practice.
+We anticipate really varied levels of experience, there's no need to have any experience with computer programming or making music or art. We'll introduce you to all of that, get you up to speed and support you in taking it further/integrating with your existing artistic practice.
+
+To get an idea of what you can expect from the programme please check out details from the previous programmes:
+
+* [2022 programme](/2022-programme)
+* [2021 programme](/2021-programme)
+
+### What is the schedule?
+Following the selection process the cohort will have an initial meeting to get acquainted. This will take place online or in person in late May.
+
+The main programme will take place over five workshops and one final performance. Dates for the workshops are scheduled for:
+
+* 10th - June
+* 24th - June
+* 8th - July
+* 15th - July
+* 22nd - July
+
+The date for the final performance is set for Friday 4th August. 
+
+We ask that each participant be able to attend these in person.
+
+
 
 ### What will I need to take part?
-
 You will need a laptop running either Windows (version 10 or later), MacOS (Catalina or above) or Linux.
 
 We will be installing software, which will require you to have full administrator privileges on your computer.
@@ -28,8 +49,10 @@ Chromebooks, iPads, tablets and phones are unfortunately not suitable.
 ### Can you provide laptops or equipment?
 Unfortunately we do not have the resources to provide laptops.
 
+Headphones can be provided for use within workshops
+
 ### When is the closing date for applications?
-The call is open from Thursday 14th April to Tuesday 3rd May 17:00 BST. Applications submitted after this date will not be considered.
+The call is open from Wednesday 12th April to Friday 5th May 17:00 BST. Applications submitted after this date will not be considered.
 
 ### How does the selection process work?
 All applications will first be checked to make sure that they're eligible. Those that are will be reviewed by the programme team first individually, and then as a group.
@@ -37,7 +60,13 @@ All applications will first be checked to make sure that they're eligible. Those
 We will then contact successful applicants. At any of these stages we may contact applicants to ask for clarifications or further information.
 
 ### How many people will be chosen?
-Up to ten.
+Up to eight people will be chosen.
+
+### Can anyone from the UK apply?
+Applications are welcome from anyone based anywhere in the UK. We only ask that you are able to attend each workshop in person and perform at the showcase event in person.
+
+### Can I take part remotely/online?
+We ask that you are able to attend each workshop in person and perform at the showcase event in person, and so therefore remote/online participation is not possible.
 
 ### Can I apply as a collective?
 While we recognise that many artists and musicians work in groups, the focus of this programme is on the development of individuals, so unfortunately collectives/groups cannot apply.
@@ -65,14 +94,8 @@ For this question we borrow the definition of Black from the [Black Ticket Proje
 
 > BTP define 'Black' as of Black African, Caribbean, Afro-Latinx and African-American heritage, including those of mixed-Black heritage who identify as such.
 
-### Why can only people from the West Midlands apply?
-This is a pilot project that we would like to expand in the future, but for now we are interested in creating the opportunity for a local live coding community of practice to grow in the West Midlands area.
-
 ### Do you provide expenses?
-Each participant is supported by a £500 bursary which covers participation in five workshops and a final event. This bursary is expected to cover travel costs.
+Each participant is supported by a £500 bursary which covers participation in the workshops and a final showcase event. This bursary is expected to cover travel and any other associated costs.
 
 ### When are we given the bursary?
 Participants will be given their bursary two installments, at the beginnig of the programme and towards the end of the programme
-
-### How is the project funded?
-(Algo|Afro) Futures is funded by Birimingham City Council as a Creative City project, part of Birmingham 2022.
