@@ -26,30 +26,6 @@ You can also read these features on live coding
 * Algoraves Put Live Performance Into Programming [https://www.sxsw.com/world/2019/algoraves-put-live-performance-into-programming/](https://www.sxsw.com/world/2019/algoraves-put-live-performance-into-programming/)
 * Inside the livecoding algorave movement, and what it says about music - [https://cdm.link/2018/05/inside-the-livecoding-algorave-movement-and-what-it-says-about-music/](https://cdm.link/2018/05/inside-the-livecoding-algorave-movement-and-what-it-says-about-music/)
 
-## About the programme
-
-During the programme you will participate in a mix of in-person workshops and asynchronous online discussion around live coding. The mentors will be Antonio Roberts and Tyger Blue. More information about them and other partners can be read on the [About](/about) page.
-
-This opportunity is open to Black artists only.
-
-## Applicant profile
-
-We are looking for applications from Black early career artists developing work within performing arts practices (music, choreography, live/performance art, etc), and prior experience in coding is not required - only a curiosity to learn! Live coding is surprisingly accessible, and as an algorithmic artform has more in common with weaving, cooking and knitting than software engineering. We are interested in supporting people in taking it in new directions.
-
-## Key information
-
-(Algo|Afro) Futures will take place between June - August at Vivid Projects and will consist of five workshops taking place on Saturdays and one live performance. Dates are available on the [Mentoring Programme](/mentoring-programme) page.
-
-The call is open from Wednesday 12th April to Friday 5th May 17:00 BST. Applications submitted after this date will not be considered.
-
-Up to eight successful applicants will be selected to take part.
-
-Each participant will receive a £500 bursary.
-
-## Apply
-
-To apply please fill out the [application form here](/apply).
-
 ## Share
 
 <style>
