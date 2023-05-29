@@ -20,7 +20,7 @@ He/Him
 
 <img style="width:100%" src="/jamal_lloyd_davis.jpg" />
 
-Jamal Lloyd Davis is a UK based Black photographer and filmmaker. His work explores themes of identity, culture, and social justice, shedding light on marginalized communities and amplifying their voices. With a unique perspective rooted in his own lived experiences, Jamal’s artistry challenges stereotypes and confronts societal norms. Recently, he was awarded a prestigious residency at the Southbank Centre, where he continues to push boundaries and inspire dialogue through powerful visual narratives.
+Jamal Lloyd Davis is a UK based Black photographer and filmmaker. His work explores themes of identity, culture, and social justice, shedding light on marginalized communities and amplifying their voices. With a unique perspective rooted in his own lived experiences, Jamal's artistry challenges stereotypes and confronts societal norms. Recently, he was awarded a prestigious residency at the Southbank Centre, where he continues to push boundaries and inspire dialogue through powerful visual narratives.
 
 * Website: [https://www.jamallloyddavis.com/](https://www.jamallloyddavis.com/)
 * Instagram: [https://instagram.com/j.amals](https://instagram.com/j.amals)
@@ -39,10 +39,21 @@ She/Her
 
 <img style="width:100%" src="/myna.jpg" />
 
-MYNA, (or just Amina!) is a DJ from Sheffield and has been carving her way through the northern music scene. She’s currently an internal team member of the Beatriarchy and Mondo Radio and recently completed her residency at Hope Works. Celebrating black artists across genres, MYNA's captivating mixes transcend boundaries, captivating audiences in Sheffield, Leeds, Manchester, and London. In this programme, she takes a step to combine her coding ability, with a passion for music, artistic expression and exploring heritage.
+MYNA, (or just Amina!) is a DJ from Sheffield and has been carving her way through the northern music scene. She's currently an internal team member of the Beatriarchy and Mondo Radio and recently completed her residency at Hope Works. Celebrating black artists across genres, MYNA's captivating mixes transcend boundaries, captivating audiences in Sheffield, Leeds, Manchester, and London. In this programme, she takes a step to combine her coding ability, with a passion for music, artistic expression and exploring heritage.
  
 * Website: [https://ra.co/dj/myna](https://ra.co/dj/myna)
 * Instagram: [https://instagram.com/aminaminaa](https://instagram.com/aminaminaa) | [https://instagram.com/mondo.radio](https://instagram.com/mondo.radio) | [https://instagram.com/thebeatriarchy](https://instagram.com/thebeatriarchy)
+
+## φ
+He/Him 
+
+Theophina, [φ], (he/him) is a violet winter tree. He grows poetry (periwinkle), music (mauve), writing (wysteria), dancing (damson) and amethyst (art) for himself and his community. 
+
+Theophina's community describes the focus of his work as the building of 'roads towards the empowerment of others knowing themselves and community.' Theophina's mauve mainly focuses on the 'excavation of an internal world(s)' which contain, 'radical self-compassion; the type of self-compassion that dismantles things.' His musical concepts are heavily influenced are informed by Black afrofuturism, sci-fi, queer love and colour theory. 
+
+* Website: [https://www.lilaphina.com](https://www.lilaphina.com)
+* Twitter: [https://twitter.com/theophina_](https://twitter.com/theophina_)
+* Instagram: [https://instagram.com/theophina_](https://instagram.com/theophina_)
 
 ## Tomilola Olumide
 She/Her
