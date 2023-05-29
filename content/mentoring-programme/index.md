@@ -25,6 +25,15 @@ Jamal Lloyd Davis is a UK based Black photographer and filmmaker. His work explo
 * Website: [https://www.jamallloyddavis.com/](https://www.jamallloyddavis.com/)
 * Instagram: [https://instagram.com/j.amals](https://instagram.com/j.amals)
 
+## Jim Osman
+He/Him
+
+<img style="width:100%" src="/jim_osman.jpg" />
+
+Jim Osman is a London-based stage director from Leeds, working across theatre, opera, live art, audio drama and sound art. He recently completed an MA in Opera Directing. He directed a Cyberpunk opera based on research he provided for the Cyberpunk Culture Research Network. He is passionate about experimental and avant-garde music, and writes for The Quietus magazine. He makes experimental noise and sings in Spirit Data, a sci-fi post-punk band. He has had speculative fiction short stories published in anthologies. He is working towards beginning a PhD in speculative fiction in audio drama and sound art. 
+
+* Instagram: [https://instagram.com/jimosmans](https://instagram.com/jimosmans)
+
 ## KarmaRi
 She/Her
 
