@@ -15,24 +15,6 @@ As an artist, my focus lies in the realm of immersive art. I am captivated by th
  
 * Twitter: [https://twitter.com/emmaosman_](https://twitter.com/emmaosman_)
 
-## Jamal Lloyd Davis
-He/Him
-
-<img style="width:100%" src="/jamal_lloyd_davis.jpg" />
-
-Jamal Lloyd Davis is a UK based Black photographer and filmmaker. His work explores themes of identity, culture, and social justice, shedding light on marginalized communities and amplifying their voices. With a unique perspective rooted in his own lived experiences, Jamal's artistry challenges stereotypes and confronts societal norms. Recently, he was awarded a prestigious residency at the Southbank Centre, where he continues to push boundaries and inspire dialogue through powerful visual narratives.
-
-* Website: [https://www.jamallloyddavis.com/](https://www.jamallloyddavis.com/)
-* Instagram: [https://instagram.com/j.amals](https://instagram.com/j.amals)
-
-## Jim Osman
-He/Him
-
-<img style="width:100%" src="/jim_osman.jpg" />
-
-Jim Osman is a London-based stage director from Leeds, working across theatre, opera, live art, audio drama and sound art. He recently completed an MA in Opera Directing. He directed a Cyberpunk opera based on research he provided for the Cyberpunk Culture Research Network. He is passionate about experimental and avant-garde music, and writes for The Quietus magazine. He makes experimental noise and sings in Spirit Data, a sci-fi post-punk band. He has had speculative fiction short stories published in anthologies. He is working towards beginning a PhD in speculative fiction in audio drama and sound art. 
-
-* Instagram: [https://instagram.com/jimosmans](https://instagram.com/jimosmans)
 
 ## KarmaRi
 She/Her
@@ -53,16 +35,15 @@ MYNA, (or just Amina!) is a DJ from Sheffield and has been carving her way throu
 * Website: [https://ra.co/dj/myna](https://ra.co/dj/myna)
 * Instagram: [https://instagram.com/aminaminaa](https://instagram.com/aminaminaa) | [https://instagram.com/mondo.radio](https://instagram.com/mondo.radio) | [https://instagram.com/thebeatriarchy](https://instagram.com/thebeatriarchy)
 
-## φ
-He/Him 
+## Jamal Lloyd Davis
+He/Him
 
-Theophina, [φ], (he/him) is a violet winter tree. He grows poetry (periwinkle), music (mauve), writing (wysteria), dancing (damson) and amethyst (art) for himself and his community. 
+<img style="width:100%" src="/jamal_lloyd_davis.jpg" />
 
-Theophina's community describes the focus of his work as the building of 'roads towards the empowerment of others knowing themselves and community.' Theophina's mauve mainly focuses on the 'excavation of an internal world(s)' which contain, 'radical self-compassion; the type of self-compassion that dismantles things.' His musical concepts are heavily influenced are informed by Black afrofuturism, sci-fi, queer love and colour theory. 
+Jamal Lloyd Davis is a UK based Black photographer and filmmaker. His work explores themes of identity, culture, and social justice, shedding light on marginalized communities and amplifying their voices. With a unique perspective rooted in his own lived experiences, Jamal's artistry challenges stereotypes and confronts societal norms. Recently, he was awarded a prestigious residency at the Southbank Centre, where he continues to push boundaries and inspire dialogue through powerful visual narratives.
 
-* Website: [https://www.lilaphina.com](https://www.lilaphina.com)
-* Twitter: [https://twitter.com/theophina_](https://twitter.com/theophina_)
-* Instagram: [https://instagram.com/theophina_](https://instagram.com/theophina_)
+* Website: [https://www.jamallloyddavis.com/](https://www.jamallloyddavis.com/)
+* Instagram: [https://instagram.com/j.amals](https://instagram.com/j.amals)
 
 ## Tomilola Olumide
 She/Her
@@ -88,6 +69,29 @@ Working with communities and assisting at events, I am looking to develop my cre
 * Instagram: [https://instagram.com/01111010.01100001.01100011](https://instagram.com/01111010.01100001.01100011)
 * Soundcloud: [https://soundcloud.com/zac-01111010](https://soundcloud.com/zac-01111010)
 * Other: [https://linktr.ee/zachbb](https://linktr.ee/zachbb)
+
+## Jim Osman
+He/Him
+
+<img style="width:100%" src="/jim_osman.jpg" />
+
+Jim Osman is a London-based stage director from Leeds, working across theatre, opera, live art, audio drama and sound art. He recently completed an MA in Opera Directing. He directed a Cyberpunk opera based on research he provided for the Cyberpunk Culture Research Network. He is passionate about experimental and avant-garde music, and writes for The Quietus magazine. He makes experimental noise and sings in Spirit Data, a sci-fi post-punk band. He has had speculative fiction short stories published in anthologies. He is working towards beginning a PhD in speculative fiction in audio drama and sound art. 
+
+* Instagram: [https://instagram.com/jimosmans](https://instagram.com/jimosmans)
+
+## φ
+He/Him 
+
+<img style="width:100%" src="/theophina_gabriel.jpg" />
+
+Theophina, [φ], (he/him) is a violet winter tree. He grows poetry (periwinkle), music (mauve), writing (wysteria), dancing (damson) and amethyst (art) for himself and his community. 
+
+Theophina's community describes his work as building  'roads towards the empowerment of others knowing themselves and community.' Theophina's mauve mainly focuses on the 'excavation of an internal world(s)' which contain 'radical self-compassion; the type of self-compassion that dismantles things.' His musical concepts are informed by Black Afrofuturism, sci-fi, queer love, and colour theory.
+
+* Website: [https://www.lilaphina.com](https://www.lilaphina.com)
+* Twitter: [https://twitter.com/theophina_](https://twitter.com/theophina_)
+* Instagram: [https://instagram.com/theophina_](https://instagram.com/theophina_)
+
 
 To get an idea of what you can expect from the programme please check out details from the previous programmes:
 
