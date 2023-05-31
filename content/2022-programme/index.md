@@ -1,5 +1,5 @@
 ---
-title: "Artists"
+title: "2022 Cohort"
 date: 2021-04-29T16:16:35Z
 draft: false
 ---
