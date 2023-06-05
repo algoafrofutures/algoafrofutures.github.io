@@ -87,7 +87,7 @@ He/Him
 
 φ is a violet winter tree. He grows poetry (periwinkle), music (mauve), writing (wysteria), dancing (damson) and amethyst (art) for himself and his community. 
 
-Theophina's community describes his work as building  'roads towards the empowerment of others knowing themselves and community.' Theophina's mauve mainly focuses on the 'excavation of an internal world(s)' which contain 'radical self-compassion; the type of self-compassion that dismantles things.' His musical concepts are informed by Black Afrofuturism, sci-fi, queer love, and colour theory.
+φ's community describes his work as building  'roads towards the empowerment of others knowing themselves and community.' φ's mauve mainly focuses on the 'excavation of an internal world(s)' which contain 'radical self-compassion; the type of self-compassion that dismantles things.' His musical concepts are informed by Black Afrofuturism, sci-fi, queer love, and colour theory.
 
 * Website: [https://www.lilaphina.com](https://www.lilaphina.com)
 * Twitter: [https://twitter.com/theophina_](https://twitter.com/theophina_)
