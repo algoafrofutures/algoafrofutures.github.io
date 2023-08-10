@@ -3,6 +3,18 @@ title: "Mentoring Programme"
 date: 2021-04-29T16:16:35Z
 draft: false
 ---
+The showcase event took place on 4th August 2023 at Vivid Projects and showcased live coding works and performances from the 2023 cohort MYNA, Jim Osman, Zach B-B, Jamal Lloyd Davis, φ, Emma Osman, and Tomilola Olumide.
+
+{{< youtube zUoZvkZ3J7Q >}}
+
+Photos by [Marcin Sz](https://www.marcinsz.com/)
+{{< gallery dir="/2023-showcase-marcin/" />}}
+
+Photos by [Jamal Lloyd Davis](https://www.jamallloyddavis.com/)
+{{< gallery dir="/2023-showcase-jamal/" />}}
+
+Photos by [Leah Moses](https://www.instagram.com/leahstormcontent/)
+{{< gallery dir="/2023-showcase-leah/" />}}
 
 # Artists
 

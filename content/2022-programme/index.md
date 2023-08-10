@@ -5,7 +5,7 @@ draft: false
 ---
 
 ## Showcase event
-The showcase event took place on 5th August 2022 at Vivid Projects and showcased live coding works and performances from the 2021 cohort Canaan Brown, Japhet Dinganga, Meesha Fones, melissandre varin & Sym Stellium, Tyger Blue, and Antonio Roberts.
+The showcase event took place on 5th August 2022 at Vivid Projects and showcased live coding works and performances from the 2022 cohort Canaan Brown, Japhet Dinganga, Meesha Fones, melissandre varin & Sym Stellium, and Tyger Blue.
 
 {{< youtube PaUVUM6H9ug >}}
 
