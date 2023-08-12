@@ -21,9 +21,16 @@ theme = "hugo-researcher"
     url = "/faq"
     weight = 4
   [[menu.main]]
-    name = "Mentoring Programme"
-    url = "/mentoring-programme"
+    name = "2023"
+    url = "/2023-programme/"
     weight = 5
-
+  [[menu.main]]
+    name = "2022"
+    url = "/2022-programme/"
+    weight = 6
+  [[menu.main]]
+    name = "2021"
+    url = "/2021-programme/"
+    weight = 7
 [markup.goldmark.renderer]
   unsafe = true  # allow raw HTML in markdown files
