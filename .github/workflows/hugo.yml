@@ -32,11 +32,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-<<<<<<< HEAD
-      HUGO_VERSION: 0.110.0
-=======
       HUGO_VERSION: 0.115.4
->>>>>>> e87a79d (reverting changes)
     steps:
       - name: Install Hugo CLI
         run: |
