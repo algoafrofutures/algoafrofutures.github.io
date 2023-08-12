@@ -8,6 +8,7 @@ The showcase event took place on 4th August 2023 at Vivid Projects and showcased
 {{< youtube zUoZvkZ3J7Q >}}
 
 Photos by [Marcin Sz](https://www.marcinsz.com/)
+
 {{< gallery dir="/2023-showcase-marcin/" />}}
 
 Photos by [Jamal Lloyd Davis](https://www.jamallloyddavis.com/)
