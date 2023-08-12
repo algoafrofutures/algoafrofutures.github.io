@@ -20,19 +20,17 @@ Antonio Roberts is an artist and curator based in Birmingham, UK, working primar
 
 [hellocatfood.com](https://hellocatfood.com)
 
-## Tyger Blue
-
-<img style="width:100%" src="/tyger_blue_profile.jpg" />
-
-Tyger Blue is a UK based worker in rhythms, frequency and intensity. His vision is to extend the understanding of the transformative powers of computational art, to challenge perception through individual, collective and institutional change. He enjoys working with experimental software such as TidalCycles to curate otherworldly sonic experiences and unlock new found potentials within electronic music.
-Photo by Matt Favero
-
-[instagram.com/tygerblue_/](https://www.instagram.com/tygerblue_/)
-
 # Previous mentors
 
+### 2023
+* [instagram.com/tygerblue_/](https://www.instagram.com/tygerblue_/)
+
+### 2022
 * [Alex McLean](https://slab.org)
 * [Gary Stewart](http://www.dubmorphology.net/)
+
+### 2021
+* [Alex McLean](https://slab.org)
 
 # Partners
 
