@@ -14,7 +14,7 @@ You can watch co-founder Antonio Roberts deliver a presentation at Pervasive Med
 ## Antonio Roberts
 
 <img style="width:100%" src="/antonio-roberts.jpg" />
-Photo by Marcin Sz
+Photo by [Marcin Sz](https://marcinsz.com/)
 
 Antonio Roberts is an artist and curator based in Birmingham, UK, working primarily with video, code, and sound. He is critically engaged with the themes surrounding network culture and in his practice explores how technology continues to shape ideas of creation, ownership, and authorship. As a performing visual artist and musician he utilises live coding techniques to demystify technology and reveal its design decisions, limitations, and creative potential.
 
@@ -23,7 +23,7 @@ Antonio Roberts is an artist and curator based in Birmingham, UK, working primar
 # Previous mentors
 
 ### 2023
-* [instagram.com/tygerblue_/](https://www.instagram.com/tygerblue_/)
+* [Tyger Blue](https://www.instagram.com/tygerblue_/)
 
 ### 2022
 * [Alex McLean](https://slab.org)
@@ -43,3 +43,5 @@ The project is run in partnership with Vivid Projects, a non-profit company supp
 # Contact
 
 For any questions about the programme please contact Antonio Roberts at algoafrofutures@gmail.com.
+
+Follow us on [Instagram](https://instagram.com/algoafrofutures), [Twitter](https://twitter.com/algoafrofutures), or [Mastodon](https://post.lurk.org/@algoafrofutures) to updates.
