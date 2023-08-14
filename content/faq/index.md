@@ -19,25 +19,16 @@ We anticipate really varied levels of experience, there's no need to have any ex
 
 To get an idea of what you can expect from the programme please check out details from the previous programmes:
 
+* [2023 programme](/2023-programme)
 * [2022 programme](/2022-programme)
 * [2021 programme](/2021-programme)
 
 ### What is the schedule?
 Following the selection process the cohort will have an initial meeting to get acquainted. This will take place online or in person in late May.
 
-The main programme will take place over five workshops and one final performance. Dates for the workshops are scheduled for:
+The main programme will take place over five workshops and one final performance. 
 
-* 10th - June
-* 24th - June
-* 8th - July
-* 15th - July
-* 22nd - July
-
-The date for the final performance is set for Friday 4th August. 
-
-We ask that each participant be able to attend these in person.
-
-
+We ask that each participant be able to attend the workshops and final performance in person.
 
 ### What will I need to take part?
 You will need a laptop running either Windows (version 10 or later), MacOS (Catalina or above) or Linux.
@@ -52,7 +43,7 @@ Unfortunately we do not have the resources to provide laptops.
 Headphones can be provided for use within workshops
 
 ### When is the closing date for applications?
-The call is open from Wednesday 12th April to Friday 5th May 17:00 BST. Applications submitted after this date will not be considered.
+(Algo|Afro) Futures is not currently accepting applications. Follow us on [Instagram](https://instagram.com/algoafrofutures), [Twitter](https://twitter.com/algoafrofutures), or [Mastodon](https://post.lurk.org/@algoafrofutures) to find out when applications reopen.
 
 ### How does the selection process work?
 All applications will first be checked to make sure that they're eligible. Those that are will be reviewed by the programme team first individually, and then as a group.

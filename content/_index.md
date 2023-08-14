@@ -28,7 +28,7 @@ You can also read these features on live coding
 
 ## Programme overview
 
-During the programme you will participate in a mix of in-person workshops and asynchronous online discussion around creative coding and live coding. The mentors will be Antonio Roberts and Tyger Blue. More information about them and other partners can be read on the [About](/about) page.
+During the programme you will participate in a mix of in-person workshops and asynchronous online discussion around creative coding and live coding. The mentor will be Antonio Roberts. More information can be read on the [About](/about) page.
 
 This opportunity is open to Black artists only.
 
@@ -38,17 +38,14 @@ We are looking for applications from Black early career artists developing work 
 
 ## Key information
 
-(Algo|Afro) Futures will take place between June - August at Vivid Projects and will consist of five workshops taking place on Saturdays and one live performance. Dates are available on the [Mentoring Programme](/mentoring-programme) page.
-
-The call is open from Wednesday 12th April to Friday 5th May 17:00 BST. Applications submitted after this date will not be considered.
-
-Up to eight successful applicants will be selected to take part.
-
-Each participant will receive a £500 bursary.
+The 2023 edition of (Algo|Afro) Futures took place between June - August at Vivid Projects. You can view documentation and recording of each edition by following the links below:
+* [2023](/2023-programme/)
+* [2022](/2022-programme/)
+* [2021](/2021-programme/)
 
 ## Apply
 
-To apply please fill out the [application form here](/apply).
+(Algo|Afro) Futures is not currently accepting applications. Follow us on [Instagram](https://instagram.com/algoafrofutures), [Twitter](https://twitter.com/algoafrofutures), or [Mastodon](https://post.lurk.org/@algoafrofutures) to find out when applications reopen.
 
 ## Share
 
