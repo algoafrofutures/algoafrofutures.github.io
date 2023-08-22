@@ -3,6 +3,10 @@ languageCode = "en-us"
 title = "(Algo|Afro) Futures"
 theme = "hugo-researcher"
 
+[params]
+  [params.style]  # appearance options (can be omitted)
+    pageWidth = "1000px"
+
 [menu]
   [[menu.main]]
     name = "Home"
