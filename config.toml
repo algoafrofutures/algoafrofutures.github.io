@@ -4,6 +4,9 @@ title = "(Algo|Afro) Futures"
 theme = "hugo-researcher"
 
 [params]
+  author = "(Algo|Afro) Futures"
+  description = "(Algo|Afro) Futures"
+  favicon = "favicon.ico"  # path to a .ico to use as favicon
   [params.style]  # appearance options (can be omitted)
     pageWidth = "1000px"
 
