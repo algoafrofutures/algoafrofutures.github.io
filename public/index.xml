@@ -2,53 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>(Algo|Afro) Futures</title>
-    <link>https://algo-afro-futures.lurk.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on (Algo|Afro) Futures</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Jan 2021 15:13:36 +0000</lastBuildDate><atom:link href="https://algo-afro-futures.lurk.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Apr 2021 16:16:35 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2021 Cohort</title>
+      <link>http://localhost:1313/2021-programme/</link>
+      <pubDate>Thu, 29 Apr 2021 16:16:35 +0000</pubDate>
+      <guid>http://localhost:1313/2021-programme/</guid>
+      <description>Showcase event The showcase event took place on 23rd July 2021 at Vivid Projects and showcased live coding works and performances from the 2021 cohort Samiir Saunders, Jae Tallawah, Rosa Francesca, and Emily Mulenga.&#xA;Photos by Marcin Sz&#xA;2021 showcase 001&#xA;2021 showcase 002&#xA;2021 showcase 003&#xA;2021 showcase 004&#xA;2021 showcase 005&#xA;2021 showcase 006&#xA;2021 showcase 007&#xA;2021 showcase 008&#xA;2021 showcase 009&#xA;2021 showcase 010&#xA;2021 showcase 011</description>
+    </item>
+    <item>
+      <title>2022 Cohort</title>
+      <link>http://localhost:1313/2022-programme/</link>
+      <pubDate>Thu, 29 Apr 2021 16:16:35 +0000</pubDate>
+      <guid>http://localhost:1313/2022-programme/</guid>
+      <description>Showcase event The showcase event took place on 5th August 2022 at Vivid Projects and showcased live coding works and performances from the 2022 cohort Canaan Brown, Japhet Dinganga, Meesha Fones, melissandre varin &amp;amp; Sym Stellium, and Tyger Blue.&#xA;Photos by Jodi Cunningham 2022 showcase 001&#xA;2022 showcase 002&#xA;2022 showcase 003&#xA;2022 showcase 004&#xA;2022 showcase 005&#xA;2022 showcase 006&#xA;2022 showcase 007&#xA;2022 showcase 008&#xA;2022 showcase 009</description>
+    </item>
+    <item>
+      <title>Mentoring Programme</title>
+      <link>http://localhost:1313/2023-programme/</link>
+      <pubDate>Thu, 29 Apr 2021 16:16:35 +0000</pubDate>
+      <guid>http://localhost:1313/2023-programme/</guid>
+      <description>Showcase event The showcase event took place on 4th August 2023 at Vivid Projects and showcased live coding works and performances from the 2023 cohort MYNA, Jim Osman, Zach B-B, Jamal Lloyd Davis, φ, Emma Osman, and Tomilola Olumide.&#xA;Photos by Marcin Sz 2023 showcase marcin 001&#xA;2023 showcase marcin 002&#xA;2023 showcase marcin 003&#xA;2023 showcase marcin 004&#xA;2023 showcase marcin 005&#xA;2023 showcase marcin 006&#xA;2023 showcase marcin 007</description>
+    </item>
+    <item>
+      <title>Mentoring Programme</title>
+      <link>http://localhost:1313/mentoring-programme/</link>
+      <pubDate>Thu, 29 Apr 2021 16:16:35 +0000</pubDate>
+      <guid>http://localhost:1313/mentoring-programme/</guid>
+      <description>The showcase event took place on 4th August 2023 at Vivid Projects and showcased live coding works and performances from the 2023 cohort MYNA, Jim Osman, Zach B-B, Jamal Lloyd Davis, φ, Emma Osman, and Tomilola Olumide.&#xA;Photos by Marcin Sz&#xA;2023 showcase marcin 001&#xA;2023 showcase marcin 002&#xA;2023 showcase marcin 003&#xA;2023 showcase marcin 004&#xA;2023 showcase marcin 005&#xA;2023 showcase marcin 006&#xA;2023 showcase marcin 007&#xA;2023 showcase marcin 008</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 21 Jan 2021 16:16:35 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>About the programme (Algo|Afro) Futures was founded by Antonio Roberts and Alex McLean in 2021. As a pratice and community Live Coding actively tries to counter the white-male bias which is prevalent in digital art, electronic music, and the tech industry. This is detailed in their community guidelines:&#xA;Diversity in lineups and audiences – Try to have a diverse lineup, thinking about e.g. gender, ethnicity, class, age, belief/non-belief, and education. A diverse lineup creates a diverse audience which leads to a diverse community, and is beneficial to all.</description>
+    </item>
     <item>
       <title>Apply</title>
-      <link>https://algo-afro-futures.lurk.org/apply/</link>
+      <link>http://localhost:1313/apply/</link>
       <pubDate>Thu, 21 Jan 2021 16:16:35 +0000</pubDate>
-      
-      <guid>https://algo-afro-futures.lurk.org/apply/</guid>
-      <description>Applications to (Algo|Afro) Futures can be made by written or video submission. The questions to be answered are referenced below:
-  Name
-  Please enter your post code This will be used to check eligibility
-  Why do you want to be involved? (up to 200 words) We&amp;rsquo;re interested to know what interests you about live coding.
-  Please describe your practice (up to 200 words) Are there any concepts, themes or questions that run throughout your work?</description>
+      <guid>http://localhost:1313/apply/</guid>
+      <description>The questions to be answered are referenced below:&#xA;Please enter your name&#xA;Please enter your post code This will be used to check eligibility&#xA;Why do you want to be involved? (up to 200 words) We want to know what interests you about live coding and what you hope to gain from the programme.&#xA;Please describe your practice (up to 200 words) Are there any concepts, themes or questions that run throughout your work?</description>
     </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://algo-afro-futures.lurk.org/contact/</link>
-      <pubDate>Thu, 21 Jan 2021 16:16:35 +0000</pubDate>
-      
-      <guid>https://algo-afro-futures.lurk.org/contact/</guid>
-      <description>For any questions about the programme please contact Vivid Projects at info@vividprojects.org.uk</description>
-    </item>
-    
     <item>
       <title>(Algo|Afro) Futures - FAQ</title>
-      <link>https://algo-afro-futures.lurk.org/faq/</link>
+      <link>http://localhost:1313/faq/</link>
       <pubDate>Thu, 21 Jan 2021 15:13:36 +0000</pubDate>
-      
-      <guid>https://algo-afro-futures.lurk.org/faq/</guid>
-      <description>FAQ What can I expect to be doing as part of this programme? What will I need to take part? You will need a laptop running either Windows (version 10 or later), MacOS (Catalina or above) or Linux.
-We will be installing software, which will require you to have full administrator privileges on your computer.
-Chromebooks, iPads, tablets and phones are unfortunately not suitable.
-Can you provide laptops or equipment? Unfortunately we do not have the resources to provide laptops.</description>
+      <guid>http://localhost:1313/faq/</guid>
+      <description>FAQ What can I expect to be doing as part of this programme? During the programme you will participate in five workshops of at least four hours each. The main software packages that will be covered are Strudel, and Hydra.&#xA;We also expect participants to spend additional time learning and practicing outside the workshops. Informal support is provided online via a private Discord server.&#xA;The programme will conclude with a final performance from each participant of up to 15 minutes.</description>
     </item>
-    
-    <item>
-      <title>Tutors</title>
-      <link>https://algo-afro-futures.lurk.org/tutors/</link>
-      <pubDate>Thu, 21 Jan 2021 15:13:36 +0000</pubDate>
-      
-      <guid>https://algo-afro-futures.lurk.org/tutors/</guid>
-      <description>Tutors Antonio Roberts Antonio Roberts is an artist and curator based in Birmingham, UK, working primarily with video, code, and sound. He is critically engaged with the themes surrounding network culture and in his practice explores how technology continues to shape ideas of creation, ownership, and authorship. As a performing visual artist and musician he utilises live coding techniques to demystify technology and reveal its design decisions, limitations, and creative potential.</description>
-    </item>
-    
   </channel>
 </rss>

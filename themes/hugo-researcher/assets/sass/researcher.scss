@@ -36,7 +36,12 @@ $y-medium: 1.0rem;
 // fade
 
 body {
-   background-color:#42267d;
+    background-color:#42267d;
+    background-image: url('/background.jpg');
+   	background-size:cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center; 
 }
 
 // Style
@@ -50,13 +55,31 @@ body {
     background-color:#FFF;
     border: 5px solid #000;
 }
+
+.container img {
+	padding-top: 20px;
+	}
+
+.navbar {
+	display: contents ;
+}
+
 .navbar-brand {
     @extend %link-dark;
     font-size: 2rem;
 }
 .nav-link {
     @extend %link-default;
+//    font-size: 20px;
+    padding-top: 30px;
+    padding-bottom: 20px;
 }
+
+.nav-item {
+    font-size: 20px;
+    padding-top: 30px
+}
+
 #content {
     a {
         @extend %link-default;

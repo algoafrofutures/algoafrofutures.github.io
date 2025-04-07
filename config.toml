@@ -5,10 +5,11 @@ theme = "hugo-researcher"
 
 [params]
   author = "(Algo|Afro) Futures"
-  description = "(Algo|Afro) Futures"
+  description = "(Algo|Afro) Futures is a mentoring programme for early career Black artists who want to explore creative coding and live coding."
   favicon = "favicon.ico"  # path to a .ico to use as favicon
-  [params.style]  # appearance options (can be omitted)
-    pageWidth = "1000px"
+  logo = "/banner.png"
+  
+[params.style]  # appearance options (can be omitted)
 
 [menu]
   [[menu.main]]
@@ -39,5 +40,12 @@ theme = "hugo-researcher"
     name = "2023"
     url = "/2023-programme/"
     weight = 7
+  [[menu.main]]
+    name = "2025"
+    url = "/2025-programme/"
+    weight = 8
 [markup.goldmark.renderer]
   unsafe = true  # allow raw HTML in markdown files
+  
+[permalinks]
+  "/" = "/:filename"
