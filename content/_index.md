@@ -4,7 +4,7 @@ date: 2021-01-21T15:13:36Z
 draft: false
 ---
 
-#### (Algo|Afro) Futures is a mentoring programme for early career Black artists who want to explore creative coding and live coding.
+#### (Algo|Afro) Futures is a mentoring programme for early career UK-based Black artists who want to explore creative coding and live coding.
 
 #### Live coding is a performative practice where artists and musicians use code to create live music and live visuals. This is often done at electronic dance music events called Algoraves, but live coding is a technique rather than a genre, and has also been applied to noise music, choreography, live cinema, and many other time-based artforms.
 
@@ -36,7 +36,7 @@ We are looking for applications from Black early career artists developing work 
 
 * Each participant is supported by an access bursary of up to £500
 
-* This opportunity is open to Black artists only
+* This opportunity is open to UK-based Black artists only
 
 * Exact workshop and performance dates are available on the [2025 Mentoring Programme](/mentoring-programme) page.
 
