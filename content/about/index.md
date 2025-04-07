@@ -30,7 +30,7 @@ You can hear Antonio talk more about the motivations behind the programme in the
 
 <img style="width:100%" src="/antonio-roberts.jpg" />
 
-Photo by [Marcin Sz](https://marcinsz.com/)
+Photo by Sophie Shaw
 
 Antonio Roberts is an artist, musician and curator based in Birmingham, UK. His practice is concerned with how the misuse of digital technology impacts people of colour and other marginalised groups.
 
@@ -44,7 +44,7 @@ He is currently learning game development, with the aim to explore how immersive
 
 ## Tyger Blue
 
-<img style="width:100%" src="/tyger-blue-profile.jpg" />
+<img style="width:100%" src="/tyger_blue_profile.jpg" />
 
 # Previous mentors
 
