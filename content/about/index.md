@@ -44,6 +44,8 @@ He is currently learning game development, with the aim to explore how immersive
 
 ## Tyger Blue
 
+<img style="width:100%" src="/tyger-blue-profile.jpg" />
+
 # Previous mentors
 
 ### 2023
