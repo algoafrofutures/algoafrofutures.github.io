@@ -6,7 +6,7 @@ draft: false
 
 ## Showcase event
 
-The showcase event took place on 4th August 2023 at Vivid Projects and showcased live coding works and performances from the 2023 cohort MYNA, Jim Osman, Zach B-B, Jamal Lloyd Davis, 5555, Emma Osman, and Tomilola Olumide.
+The showcase event took place on 4th August 2023 at Vivid Projects and showcased live coding works and performances from the 2023 cohort MYNA, Jim Osman, Zach B-B, Jamal Lloyd Davis, φ, Emma Osman, and Tomilola Olumide.	
 
 {{< youtube zUoZvkZ3J7Q >}}
 
@@ -94,15 +94,15 @@ Jim Osman is a London-based stage director from Leeds, working across theatre, o
 
 * Instagram: [https://instagram.com/jimosmans](https://instagram.com/jimosmans)
 
-## 5555
+## φ
 He/Him 
 
 <img style="width:100%" src="/theophina_gabriel.jpg" />
 *photo by Ambient Jade*
 
-5555 is a violet winter tree. He grows poetry (periwinkle), music (mauve), writing (wysteria), dancing (damson) and amethyst (art) for himself and his community. 
+φ is a violet winter tree. He grows poetry (periwinkle), music (mauve), writing (wysteria), dancing (damson) and amethyst (art) for himself and his community. 
 
-5555's community describes his work as building  'roads towards the empowerment of others knowing themselves and community.' 5555's mauve mainly focuses on the 'excavation of an internal world(s)' which contain 'radical self-compassion; the type of self-compassion that dismantles things.' His musical concepts are informed by Black Afrofuturism, sci-fi, queer love, and colour theory.
+φ's community describes his work as building  'roads towards the empowerment of others knowing themselves and community.' φ's mauve mainly focuses on the 'excavation of an internal world(s)' which contain 'radical self-compassion; the type of self-compassion that dismantles things.' His musical concepts are informed by Black Afrofuturism, sci-fi, queer love, and colour theory.
 
 * Website: [https://www.lilaphina.com](https://www.lilaphina.com)
 * Twitter: [https://twitter.com/theophina_](https://twitter.com/theophina_)
