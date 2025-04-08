@@ -1,10 +1,10 @@
 ---
-title: "2022 Cohort"
+title: "2022 Mentoring Programme"
 date: 2021-04-29T16:16:35Z
 draft: false
 ---
 
-## Showcase event
+## 2022 Showcase event
 The showcase event took place on 5th August 2022 at Vivid Projects and showcased live coding works and performances from the 2022 cohort Canaan Brown, Japhet Dinganga, Meesha Fones, melissandre varin & Sym Stellium, and Tyger Blue.
 
 {{< youtube PaUVUM6H9ug >}}

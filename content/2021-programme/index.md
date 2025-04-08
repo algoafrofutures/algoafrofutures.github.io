@@ -1,10 +1,10 @@
 ---
-title: "2021 Cohort"
+title: "2021 Mentoring Programme"
 date: 2021-04-29T16:16:35Z
 draft: false
 ---
 
-## Showcase event
+## 2021 Showcase event
 The showcase event took place on 23rd July 2021 at Vivid Projects and showcased live coding works and performances from the 2021 cohort Samiir Saunders, Jae Tallawah, Rosa Francesca, and Emily Mulenga.
 
 {{< youtube OenTVK_AW0Y >}}

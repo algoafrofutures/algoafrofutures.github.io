@@ -46,6 +46,10 @@ He is currently learning game development, with the aim to explore how immersive
 
 <img style="width:100%" src="/tyger_blue_profile.jpg" />
 
+Tyger Blue is a British electronic music producer and sound artist. His work explores how algorithmic and computational software (TidalCycles, VCV RACK) can be used to reshape traditional approaches to live music performance and music making in general. As a performer and artist, he draws from many styles shifting mainly between contemporary electronic music, jungle and ambient. In addition to showcasing his work at venues such as The Tate, Corsica Studios, No Bounds Festival and The Southbank Centre, Tyger Blue has also delivered workshops that support emerging Black artists working with creative coding and sound as part of (Algo|Afro) Futures. 
+
+[https://www.instagram.com/tygerblue_/](https://www.instagram.com/tygerblue_/)
+
 # Previous mentors
 
 ### 2023

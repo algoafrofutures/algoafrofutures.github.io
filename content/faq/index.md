@@ -68,7 +68,7 @@ Up to six people will be chosen.
 Applications are welcome from anyone based anywhere in the UK. We only ask that you are able to attend each workshop in person and perform at the showcase event in person.
 
 ## Can I take part remotely/online?
-We ask that you are able to attend each workshop in person and perform at the showcase event in person, and so therefore remote/online participation is not possible.
+We ask that you are able to attend each workshop in person and perform at the showcase event in person, therefore remote/online participation is not possible.
 
 A unique aspect of the programme is the opportunity to learn together in a collaborative environemnt and form connections with the other participants. Based on our experience this works best when all participants are in the same space.
 
@@ -86,7 +86,7 @@ For this question we borrow from [Jerwood Arts's defintion](https://jerwoodarts.
 
 > We think of those in the early stages of their careers as usually within the first 10 years of establishing their practice. Broadly speaking, this means the artist/curator/producer will have had some professional experience and reached a critical moment in their career, and will require a particular kind of support in order to maximise their potential and propel them into the next phase of their development.
 
-> For [this programme] it means that, unless an individual has had a career change or break, their first professional experience will have been between 2013 and 2023.
+> For [this programme] it means that, unless an individual has had a career change or break, their first professional experience will have been between 2015 and 2025.
 
 ## Why can only Black people apply?
 Live coding is a developing practice that is in need of diverse perspectives in order to move forward in a creative and healthy way. There have long been efforts in this direction but with some exceptions, these have largely focussed on gender diversity, countering the heavy male bias in technology, with some success. These efforts have been intersectional but the recent growth of the Black Lives Matter movement during 2020 has caused us to reflect further on the disproportionate lack of Black artists in the UK live coding scene. This is despite much of live coded music heavily inspired by Black music, much of which developed against a political struggle.
