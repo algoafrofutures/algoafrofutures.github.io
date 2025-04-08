@@ -9,7 +9,7 @@ draft: false
 ## What can I expect to be doing as part of this programme?
 During the programme you will participate in five workshops of at least four hours each. The main software packages that will be covered are [Strudel](https://strudel.cc/), and [Hydra](https://hydra.ojack.xyz/). 
 
-We also expect participants to spend additional time learning and practicing outside the workshops. Informal support is provided online via a private Discord server.
+We recommend participants allow some additional time learning and practicing outside the workshops. Informal support for this is provided online via a private Discord server.
 
 The programme will conclude with a final performance from each participant of up to 15 minutes.
 
@@ -39,7 +39,9 @@ Final performance:
 We ask that each participant be able to attend the workshops and the final performance in person.
 
 ## Where does it take place?
-The mentoring programm will take place at [Vivid Projects](https://vividprojects.org.uk) in Birmingham. Please note that Vivid Projects moved location in 2024 and are now located on Allison Street in Digbeth.
+The mentoring programm will take place at [Vivid Projects](https://vividprojects.org.uk) in Birmingham. Please note that Vivid Projects moved location in 2024 and is now located at The Warehouse in Digbeth – the Birmingham Friends of the Earth's environmental community building. The sessions will take place in a ground floor room and there is level access into the building. 
+
+The Warehouse is located a short walk from Moor St Station and the Bull Ring and in close proximity to Digbeth's independent art spaces. There are several car parks very close by, and plenty of public transport options.
 
 ## What will I need to take part?
 You will need a laptop running either Windows (version 10 or later), MacOS (Catalina or above) or Linux.
@@ -97,9 +99,6 @@ Although this project responds to the lack of Black representation in the live c
 We define 'Black' as of Black African, Caribbean, Afro-Latinx and African-American heritage, including those of mixed-Black heritage who identify as such.
 
 ## Do you provide expenses?
-Each participant is supported by an access bursary of up to £500. This bursary is provided to support any costs which may impact your ability to take part in the mentoring programme. This may include costs such as travel, health/childcare, buying equipment etc.
+Each participant is supported by an access bursary of up to £500. This bursary is provided to support any costs which may impact your ability to take part in the mentoring programme. This may include costs such as travel, health/childcare, buying equipment etc. Participants will be given their bursary in four equal installments throughout the programme.
 
 If you have any specific access needs that you would like to discuss ahead of your application please [contact us](/about#contact).
-
-## When are we given the bursary?
-Participants will be given their bursary in four equal installments throughout the programme.
