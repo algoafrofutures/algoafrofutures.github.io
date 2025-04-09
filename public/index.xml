@@ -6,28 +6,35 @@
     <description>Recent content on (Algo|Afro) Futures</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Apr 2021 16:16:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Apr 2025 16:16:35 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2021 Cohort</title>
+      <title>2025 Mentoring Programme</title>
+      <link>http://localhost:1313/2025-programme/</link>
+      <pubDate>Tue, 08 Apr 2025 16:16:35 +0000</pubDate>
+      <guid>http://localhost:1313/2025-programme/</guid>
+      <description>2025 Mentoring Programme (Algo|Afro) Futures is open for applications. We are looking for up to six UK-based Black artists and musicians to join the mentoring programme. During the programme you will participate in five workshops of at least four hours each covering live coding and creative coding. The programme will conclude with a final performance from each participant of up to 15 minutes.&#xA;The dates for those are as follows:</description>
+    </item>
+    <item>
+      <title>2021 Mentoring Programme</title>
       <link>http://localhost:1313/2021-programme/</link>
       <pubDate>Thu, 29 Apr 2021 16:16:35 +0000</pubDate>
       <guid>http://localhost:1313/2021-programme/</guid>
-      <description>Showcase event The showcase event took place on 23rd July 2021 at Vivid Projects and showcased live coding works and performances from the 2021 cohort Samiir Saunders, Jae Tallawah, Rosa Francesca, and Emily Mulenga.&#xA;Photos by Marcin Sz&#xA;2021 showcase 001&#xA;2021 showcase 002&#xA;2021 showcase 003&#xA;2021 showcase 004&#xA;2021 showcase 005&#xA;2021 showcase 006&#xA;2021 showcase 007&#xA;2021 showcase 008&#xA;2021 showcase 009&#xA;2021 showcase 010&#xA;2021 showcase 011</description>
+      <description>2021 Showcase event The showcase event took place on 23rd July 2021 at Vivid Projects and showcased live coding works and performances from the 2021 cohort Samiir Saunders, Jae Tallawah, Rosa Francesca, and Emily Mulenga.&#xA;Photos by Marcin Sz&#xA;2021 showcase 001&#xA;2021 showcase 002&#xA;2021 showcase 003&#xA;2021 showcase 004&#xA;2021 showcase 005&#xA;2021 showcase 006&#xA;2021 showcase 007&#xA;2021 showcase 008&#xA;2021 showcase 009&#xA;2021 showcase 010&#xA;2021 showcase 011</description>
     </item>
     <item>
-      <title>2022 Cohort</title>
+      <title>2022 Mentoring Programme</title>
       <link>http://localhost:1313/2022-programme/</link>
       <pubDate>Thu, 29 Apr 2021 16:16:35 +0000</pubDate>
       <guid>http://localhost:1313/2022-programme/</guid>
-      <description>Showcase event The showcase event took place on 5th August 2022 at Vivid Projects and showcased live coding works and performances from the 2022 cohort Canaan Brown, Japhet Dinganga, Meesha Fones, melissandre varin &amp;amp; Sym Stellium, and Tyger Blue.&#xA;Photos by Jodi Cunningham 2022 showcase 001&#xA;2022 showcase 002&#xA;2022 showcase 003&#xA;2022 showcase 004&#xA;2022 showcase 005&#xA;2022 showcase 006&#xA;2022 showcase 007&#xA;2022 showcase 008&#xA;2022 showcase 009</description>
+      <description>2022 Showcase event The showcase event took place on 5th August 2022 at Vivid Projects and showcased live coding works and performances from the 2022 cohort Canaan Brown, Japhet Dinganga, Meesha Fones, melissandre varin &amp;amp; Sym Stellium, and Tyger Blue.&#xA;Photos by Jodi Cunningham 2022 showcase 001&#xA;2022 showcase 002&#xA;2022 showcase 003&#xA;2022 showcase 004&#xA;2022 showcase 005&#xA;2022 showcase 006&#xA;2022 showcase 007&#xA;2022 showcase 008&#xA;2022 showcase 009</description>
     </item>
     <item>
-      <title>Mentoring Programme</title>
+      <title>2023 Mentoring Programme</title>
       <link>http://localhost:1313/2023-programme/</link>
       <pubDate>Thu, 29 Apr 2021 16:16:35 +0000</pubDate>
       <guid>http://localhost:1313/2023-programme/</guid>
-      <description>Showcase event The showcase event took place on 4th August 2023 at Vivid Projects and showcased live coding works and performances from the 2023 cohort MYNA, Jim Osman, Zach B-B, Jamal Lloyd Davis, φ, Emma Osman, and Tomilola Olumide.&#xA;Photos by Marcin Sz 2023 showcase marcin 001&#xA;2023 showcase marcin 002&#xA;2023 showcase marcin 003&#xA;2023 showcase marcin 004&#xA;2023 showcase marcin 005&#xA;2023 showcase marcin 006&#xA;2023 showcase marcin 007</description>
+      <description>2023 Showcase event The showcase event took place on 4th August 2023 at Vivid Projects and showcased live coding works and performances from the 2023 cohort MYNA, Jim Osman, Zach B-B, Jamal Lloyd Davis, φ, Emma Osman, and Tomilola Olumide.&#xA;Photos by Marcin Sz 2023 showcase marcin 001&#xA;2023 showcase marcin 002&#xA;2023 showcase marcin 003&#xA;2023 showcase marcin 004&#xA;2023 showcase marcin 005&#xA;2023 showcase marcin 006&#xA;2023 showcase marcin 007</description>
     </item>
     <item>
       <title>Mentoring Programme</title>
@@ -48,14 +55,14 @@
       <link>http://localhost:1313/apply/</link>
       <pubDate>Thu, 21 Jan 2021 16:16:35 +0000</pubDate>
       <guid>http://localhost:1313/apply/</guid>
-      <description>The questions to be answered are referenced below:&#xA;Please enter your name&#xA;Please enter your post code This will be used to check eligibility&#xA;Why do you want to be involved? (up to 200 words) We want to know what interests you about live coding and what you hope to gain from the programme.&#xA;Please describe your practice (up to 200 words) Are there any concepts, themes or questions that run throughout your work?</description>
+      <description>Apply The questions to be answered are referenced below:&#xA;Please enter your name&#xA;Please enter your e-mail address&#xA;Please enter your post code This will be used to check eligibility&#xA;Why do you want to be involved? (up to 200 words) We want to know what interests you about live coding and what you hope to gain from the programme.&#xA;Please describe your practice (up to 200 words) Are there any concepts, themes or questions that run throughout your work?</description>
     </item>
     <item>
       <title>(Algo|Afro) Futures - FAQ</title>
       <link>http://localhost:1313/faq/</link>
       <pubDate>Thu, 21 Jan 2021 15:13:36 +0000</pubDate>
       <guid>http://localhost:1313/faq/</guid>
-      <description>FAQ What can I expect to be doing as part of this programme? During the programme you will participate in five workshops of at least four hours each. The main software packages that will be covered are Strudel, and Hydra.&#xA;We also expect participants to spend additional time learning and practicing outside the workshops. Informal support is provided online via a private Discord server.&#xA;The programme will conclude with a final performance from each participant of up to 15 minutes.</description>
+      <description>FAQ What can I expect to be doing as part of this programme? During the programme you will participate in five workshops of at least four hours each. The main software packages that will be covered are Strudel, and Hydra.&#xA;We recommend participants allow some additional time learning and practicing outside the workshops. Informal support for this is provided online via a private Discord server.&#xA;The programme will conclude with a final performance from each participant of up to 15 minutes.</description>
     </item>
   </channel>
 </rss>

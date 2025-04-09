@@ -41,7 +41,9 @@ We are looking for applications from Black early career artists developing work 
 * Exact workshop and performance dates are available on the [2025 Mentoring Programme](/mentoring-programme) page.
 
 ## Apply
-The deadline for applications is 5th May 2025 23:59 BST. Applications received after that date will not be considered. [Apply here](/apply).
+The deadline for applications is 5th May 2025 23:59 BST. Applications received after that date will not be considered. 
+
+[**Apply here**](/apply).
 
 ## Questions?
 For any queries please first check the [FAQ page](/faq) or [contact us](/about#contact).
