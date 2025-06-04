@@ -13,6 +13,8 @@ Photos by [Jodi Cunningham](https://www.jodiphotography.co.uk)
 {{< load-photoswipe >}}
 {{< gallery dir="/2022-showcase/" />}}
 
+--------------
+
 # Artists
 
 ## Canaan Brown
@@ -26,8 +28,10 @@ Brown was recently awarded as a finalist for the Black Heritage Undergraduate of
 
 * Website: [https://canaanjbrown.cargo.site](https://canaanjbrown.cargo.site)
 * Twitter: [@canaan_jbpress](https://twitter.com/canaan_jbpress)
-* Instagram: [@canaan_jb](https://instagram.com/canaan_jb)
+* Instagram: [https://instagram.com/canaan_jb](https://instagram.com/canaan_jb)
 * Facebook: [canaan_jb](https://facebook.com/canaan_jb)
+
+--------------
 
 ## Demarae
 He/Him
@@ -42,7 +46,9 @@ Demarae is a world builder who creates alternative realities in a stylised way, 
 
 * Website: [https://demaraemusic.wix.com/demarae](https://demaraemusic.wix.com/demarae)
 * Twitter: [@_Demarae](https://twitter.com/_Demarae)
-* Instagram: [@Demarae.exe](https://instagram.com/Demarae.exe)
+* Instagram: [https://instagram.com/Demarae.exe](https://instagram.com/Demarae.exe)
+
+--------------
 
 ## Japhet Dinganga
 He/Him
@@ -51,7 +57,9 @@ He/Him
 
 Birmingham based visual artist, currently working on several projects along with community organisations and other Birmingham based emerging creatives. Developing in carpentry digital art programming to constitute my current practice and interests as a cultivating contribute. I’m excited to take part in this experience in high hopes to learn lasting skills and new knowledge.
 
-* Instagram: [@jahpharoah](https://instagram.com/jahpharoah)
+* Instagram: [https://instagram.com/jahpharoah](https://instagram.com/jahpharoah)
+
+--------------
 
 ## Meesha Fones
 They/Them
@@ -62,9 +70,11 @@ Meesha Fones is a Wolverhampton born electronic sound designer, live performer a
 
 Their style of producing can be most noted in ‘Queef’: a Birmingham based collective where They are lead producer, showcasing queer experimental art and live music. Queef challenges standard forms of hosting live performance, and the journey of how spaces can work and look. Meesha bases Their work on journeying towards immersion and self healing.
 
-* Instagram: [@meekameeka77](https://instagram.com/meekameeka77)
-* Instagram: [@queef_qult](https://instagram.com/queef_qult)
+* Instagram: [https://instagram.com/meekameeka77](https://instagram.com/meekameeka77)
+* Instagram: [https://instagram.com/queef_qult](https://instagram.com/queef_qult)
 * Soundcloud: [https://soundcloud.com/user-970049646-176857914](https://soundcloud.com/user-970049646-176857914)
+
+--------------
 
 ## melissandre varin
 they/them
@@ -76,7 +86,9 @@ Relation, displacement, multiplicity, identity, interdependency, and language em
 Through performance arts, moving image assemblages, and site-specific installations - among other things - melissandre investigates love, intimacy, and tenderness.
 
 * Website: [https://melissandre.hotglue.me/](https://melissandre.hotglue.me/)
-* Instagram: [@vmelissandre](https://instagram.com/vmelissandre)
+* Instagram: [https://instagram.com/vmelissandre](https://instagram.com/vmelissandre)
+
+--------------
 
 ## Sym Stellium
 they/them
@@ -87,7 +99,9 @@ Sym is a movement artist, facilitator, performer and community worker with focus
 
 * Website: [https://symstellium.hotglue.me](https://symstellium.hotglue.me)
 * Twitter: [@simsoulspeaks](https://twitter.com/simsoulspeaks)
-* Instagram: [@mendezi0](https://instagram.com/mendezi0)
+* Instagram: [https://instagram.com/mendezi0](https://instagram.com/mendezi0)
+
+--------------
 
 ## Tyger Blue
 He/Him
@@ -96,5 +110,5 @@ He/Him
 
 Multidisciplinary artist specialising in sound. Explorer of the intersection at which technology, art and science meet.
 
-* Instagram: [@tygerblue_](https://www.instagram.com/tygerblue_/)
+* Instagram: [https://instagram.com/tygerblue_](https://www.instagram.com/tygerblue_/)
 * Spotifyt: [https://open.spotify.com/artist/4mqgcO7AYVWTnpYcrqN5f8?si=osC9LEdzTFWG8wFetr9HOA](https://open.spotify.com/artist/4mqgcO7AYVWTnpYcrqN5f8?si=osC9LEdzTFWG8wFetr9HOA)

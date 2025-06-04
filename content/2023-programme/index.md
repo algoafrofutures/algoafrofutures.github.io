@@ -19,6 +19,8 @@ Photos by [Jamal Lloyd Davis](https://www.jamallloyddavis.com/)
 Photos by [Leah Moses](https://www.instagram.com/leahstormcontent/)
 {{< gallery dir="/2023-showcase-leah/" />}}
 
+--------------
+
 # Artists
 
 ## Emma Osman
@@ -30,6 +32,7 @@ As an artist, my focus lies in the realm of immersive art. I am captivated by th
  
 * Twitter: [https://twitter.com/emmaosman_](https://twitter.com/emmaosman_)
 
+--------------
 
 ## KarmaRi
 She/Her
@@ -39,6 +42,8 @@ She/Her
 KarmaRi is a singer, songwriter, rapper & poet from Birmingham who resides within the genres of RnB, TrapSoul & Jazz primarily. Her melodious and mystical sound unearths her audiences deepest fears and inspires them to reach their greatest depths. Her song “Cycles” has been featured by DJTarget as the underground RnB tune of the week on BBCRadio1Xtra and is also the leading soundtrack for a British independent film by Sam Addo called Cards on the Table. Her delightfully delicate sounding vocals paired with her intense and sharp lyrical genius blend together to capture the minds of her listeners. 
 
 * Instagram: [https://instagram.com/butterflypimp](https://instagram.com/butterflypimp)
+
+--------------
 
 ## MYNA
 She/Her
@@ -50,6 +55,8 @@ MYNA, (or just Amina!) is a DJ from Sheffield and has been carving her way throu
 * Website: [https://ra.co/dj/myna](https://ra.co/dj/myna)
 * Instagram: [https://instagram.com/aminaminaa](https://instagram.com/aminaminaa) | [https://instagram.com/mondo.radio](https://instagram.com/mondo.radio) | [https://instagram.com/thebeatriarchy](https://instagram.com/thebeatriarchy)
 
+--------------
+
 ## Jamal Lloyd Davis
 He/Him
 
@@ -59,6 +66,8 @@ Jamal Lloyd Davis is a UK based Black photographer and filmmaker. His work explo
 
 * Website: [https://www.jamallloyddavis.com/](https://www.jamallloyddavis.com/)
 * Instagram: [https://instagram.com/j.amals](https://instagram.com/j.amals)
+
+--------------
 
 ## Tomilola Olumide
 She/Her
@@ -71,6 +80,8 @@ Tomilola Olumide is a Multidisciplinary Artist who documents her personal histor
 * Twitter: [https://twitter.com/Tomilola_O_Art](https://twitter.com/Tomilola_O_Art)
 * Instagram: [https://instagram.com/tomilolaolumideart](https://instagram.com/tomilolaolumideart)
 * Other: [https://linktr.ee/TomilolaOlumide](https://linktr.ee/TomilolaOlumide)
+
+--------------
 
 ## Zach B-B
 He/Him
@@ -85,6 +96,8 @@ Working with communities and assisting at events, I am looking to develop my cre
 * Soundcloud: [https://soundcloud.com/zac-01111010](https://soundcloud.com/zac-01111010)
 * Other: [https://linktr.ee/zachbb](https://linktr.ee/zachbb)
 
+--------------
+
 ## Jim Osman
 He/Him
 
@@ -93,6 +106,8 @@ He/Him
 Jim Osman is a London-based stage director from Leeds, working across theatre, opera, live art, audio drama and sound art. He recently completed an MA in Opera Directing. He directed a Cyberpunk opera based on research he provided for the Cyberpunk Culture Research Network. He is passionate about experimental and avant-garde music, and writes for The Quietus magazine. He makes experimental noise and sings in Spirit Data, a sci-fi post-punk band. He has had speculative fiction short stories published in anthologies. He is working towards beginning a PhD in speculative fiction in audio drama and sound art. 
 
 * Instagram: [https://instagram.com/jimosmans](https://instagram.com/jimosmans)
+
+--------------
 
 ## φ
 He/Him 
@@ -107,9 +122,3 @@ He/Him
 * Website: [https://www.lilaphina.com](https://www.lilaphina.com)
 * Twitter: [https://twitter.com/theophina_](https://twitter.com/theophina_)
 * Instagram: [https://instagram.com/theophina_](https://instagram.com/theophina_)
-
-
-To get an idea of what you can expect from the programme please check out details from the previous programmes:
-
-* [2022 programme](/2022-programme)
-* [2021 programme](/2021-programme)

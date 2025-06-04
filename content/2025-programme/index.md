@@ -90,3 +90,6 @@ David, a bioengineer and researching designer, works in imaginative non-fictions
 With experience in biomaterials and gene therapy beginning a decade earlier at Aston University in Birmingham, joining (Algo|Afro) Futures meets a vision built through film photography and soundtracking industrial architecture and empty warehouses– in homage to a steadfast black technical tradition.
 
 co-founding Imperceptible Clouds in 2023 as an experimental sound collective shoutsouts the likes of Ulysses Jenkins, Dubmorphology, Basquiat’s GRAY and Space Africa tracing language through sound as texture and documentary.
+
+* Website: [https://dqo0o.github.io/](https://dqo0o.github.io/)
+* Instagram: [https://instagram.com/renewingurea](https://instagram.com/renewingurea)

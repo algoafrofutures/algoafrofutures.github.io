@@ -14,6 +14,8 @@ Photos by [Marcin Sz](https://www.marcinsz.com/)
 {{< load-photoswipe >}}
 {{< gallery dir="/2021-showcase/" />}}
 
+----------------
+
 # Artists
 
 ## Rosa Francesca
@@ -24,7 +26,9 @@ She/Her
 Rosa Francesca is a digital artist from Leamington Spa whose work focuses on the themes of the body and accessibility. Rosa often experiments with biofeedback and facial recognition to find innovative ways for people with limited mobility to make music and art. Her work ranges from 3D renders to performance and interactive installations.
 
 * Twitter: [@RosaFrancsArt](https://twitter.com/rosafrancsart)
-* Instagram: [@rosafrancesca.art](https://instagram.com/rosafrancesca.art)
+* Instagram: [https://rosafrancesca.art](https://instagram.com/rosafrancesca.art)
+
+----------------
 
 ## Emily Mulenga
 She/Her
@@ -37,7 +41,9 @@ Since 2013 she has shown internationally, and has led projects at Tate Britain a
 
 * Website: [https://www.emilymulenga.com](https://www.emilymulenga.com)
 * Twitter: [@MulengaMoji](https://twitter.com/mulengamoji)
-* Instagram: [@emilymulenga](https://instagram.com/emilymulenga)
+* Instagram: [https://instagram.com/emilymulenga](https://instagram.com/emilymulenga)
+
+----------------
 
 ## Samiir Saunders
 He/They
@@ -48,7 +54,9 @@ Samiir Saunders is a mixed media poet based in Birmingham. Their work consists o
 
 * Website: [https://samiirsaunders.com](https://samiirsaunders.com)
 * Twitter: [@smaiduskhan](https://twitter.com/smaiduskhan)
-* Instagram: [@smaiduskhan](https://smaiduskhan)
+* Instagram: [https://instagram.com/smaiduskhan](https://smaiduskhan)
+
+----------------
 
 ## Jae Tallawah
 They/Them
@@ -58,4 +66,4 @@ They/Them
 Jae Tallawah is a ferociously Brummy, Neurodivergent, Non-binary, Queer, multidisciplinary artist. Jae’s explores the transformative power of affirmations in all they do (through music production, visual art and bespoke workshops tailored to communities that need it the most). Jae is passionate about Disability justice, they advocate for radical change to the systems within the arts and cultural world and are committed to seeing a world that centres and considers people like them. Jae values empathy, creative care and spaces to be unapologetic. Their mantra is to always make, create and dream with intention.
 
 * Website: [https://www.jaetallawah.com/](https://www.jaetallawah.com/)
-* Instagram: [@unapologeticblackgirl](https://www.instagram.com/unapologeticblackgirl/)
+* Instagram: [https://instagram.com/unapologeticblackgirl](https://www.instagram.com/unapologeticblackgirl/)
