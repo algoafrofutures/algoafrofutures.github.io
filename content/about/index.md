@@ -50,7 +50,7 @@ Photo by Matt Favero/Liminal Warp
 
 Tyger Blue is a British electronic music producer and sound artist. His work explores how algorithmic and computational software (TidalCycles, VCV RACK) can be used to reshape traditional approaches to live music performance and music making in general. As a performer and artist, he draws from many styles shifting mainly between contemporary electronic music, jungle and ambient. In addition to showcasing his work at venues such as The Tate, Corsica Studios, No Bounds Festival and The Southbank Centre, Tyger Blue has also delivered workshops that support emerging Black artists working with creative coding and sound as part of (Algo|Afro) Futures. 
 
-[https://www.instagram.com/tygerblue_/](https://www.instagram.com/tygerblue_/)
+[https://www.instagram.com/tygerblue_](https://www.instagram.com/tygerblue_)
 
 # Previous mentors
 
@@ -67,13 +67,22 @@ Tyger Blue is a British electronic music producer and sound artist. His work exp
 # Partners
 
 ## Vivid Projects
-
 The project is run in partnership with Vivid Projects, a non-profit company supporting media arts practice. Founded in 2012 and based in Birmingham, we encourage innovation, risk and experimentation in artistic practice. We are committed to a diversity of practice and encourage historic and contemporary engagement with cultural and sub-cultural histories. Our work is made public through an ambitious programme of events and exhibitions on and off-site, created in collaboration with artists, producers, thinkers and researchers.
 
 [https://www.vividprojects.org.uk](https://www.vividprojects.org.uk)
 
-# Contact
+# Press and features
+Reflections on (Algo|Afro) Futures (2024) - [https://control-shift.io/blog/algoafro-futures/](https://control-shift.io/blog/algoafro-futures/)
 
+(Algo|Afro) Futures programme - interview (2022) - [https://kitmonsters.com/blog/algo%7Cafro-futures-programme-interview](https://kitmonsters.com/blog/algo%7Cafro-futures-programme-interview)
+
+
+# Branding
+Logo and branding by [Designer Philly](https://designerphilly.com). Additional design work and website design by [Antonio Roberts](https://hellocatfood.com).
+
+# Contact
 For any questions about the programme please contact Antonio Roberts at algoafrofutures@gmail.com.
 
 Follow us on [Instagram](https://instagram.com/algoafrofutures) or [Mastodon](https://post.lurk.org/@algoafrofutures) for updates.
+
+
