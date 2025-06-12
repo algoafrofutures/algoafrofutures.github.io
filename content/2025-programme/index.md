@@ -38,7 +38,9 @@ he/him
 
 Photo by [Nathan Harrison](https://www.instagram.com/stuff.jpeg_/)
 
-Bundy is a Leeds-based musician and biologist. For him, music is as much an avenue for exploration as it is for connection.
+Bundy is a Leeds-based artist and biologist. For him, music is as much an avenue for exploration as it is for connection – demonstrated by his genre-blending, versatile work. A co-founder of the Brum-based collective STK, he has written music for TV and also produces for other musicians.
+
+Since discovering live-coding while supporting the band Kelora, he has begun to fuse machine-coded generative beats with his guitar-led tracks. He aspires to elevate representation for black artists in electronic music through (Algo|Afro) Futures, with an eventual goal of creating a cypher-esque performance pairing MCs and instrumentals that evolve in real time.
 
 * Instagram: [https://instagram.com/hpunq](https://instagram.com/hpunq)
 * TikTok: [https://tiktok.com/@bundyh](https://tiktok.com/@bundyh)
