@@ -54,7 +54,7 @@ Samiir Saunders is a mixed media poet based in Birmingham. Their work consists o
 
 * Website: [https://samiirsaunders.com](https://samiirsaunders.com)
 * Twitter: [@smaiduskhan](https://twitter.com/smaiduskhan)
-* Instagram: [https://instagram.com/smaiduskhan](https://smaiduskhan)
+* Instagram: [https://instagram.com/smaiduskhan](https://instagram.com/smaiduskhan)
 
 ----------------
 

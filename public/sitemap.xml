@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/radio/</loc>
+    <lastmod>2025-07-07T14:04:36+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/2025-programme/</loc>
     <lastmod>2025-04-08T16:16:35+00:00</lastmod>
   </url><url>
