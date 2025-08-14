@@ -4,7 +4,13 @@ date: 2025-04-08T16:16:35Z
 draft: false
 ---
 
-# Artists
+## 2025 Showcase event
+The showcase event took place on 1st August 2025 at Vivid Projects and showcased live coding works and performances from the 2025 cohort Cyberseed, okcandice, Bundy, David Quartey, and Sheba Q.
+
+{{< youtube N-VKGqj2GmY >}}
+
+Photos by [Jake Phillips](https://www.jakephillips.photography)
+{{< gallery dir="/2025-showcase/" />}}
 
 ## okcandice
 (s)he/they
