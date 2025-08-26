@@ -8,7 +8,7 @@ draft: false
 
 #### Live coding is a performative practice where artists and musicians use code to create live music and live visuals. This is often done at electronic dance music events called Algoraves, but live coding is a technique rather than a genre, and has also been applied to noise music, choreography, live cinema, and many other time-based artforms.
 
-<img style="width:100%" src="/2023-showcase-marcin//2023-showcase-marcin-004.jpg" />
+<img style="width:100%" src="/2025-showcase/2025_showcase_012.jpg" />
 
 Since its inception in 2014 there have been hundreds of Algoraves taking place in over 100 cities and festivals around the world, including performances at Glastonbury, Sonar, SXSW, Bluedot, Mutek and Transmediale. There have been many events in Birmingham including audio/visual focussed parties at Vivid projects in Digbeth.
 
@@ -19,6 +19,7 @@ Since its inception in 2014 there have been hundreds of Algoraves taking place i
 The mentoring programme consists of five workshops focusing on live coding music and visuals. [Strudel](https://strudel.cc/) will be the software used for creating music, and [Hydra](https://hydra.ojack.xyz/) the software used for creating visuals.
 
 At the conclusion of the workshop each participant will demonstrate their newly-aqcuired skills in a performance of up to 15 minutes in front of a live audience. You can view documentation and recordings of previous editions by following the links below:
+* [2025](/2025-programme/)
 * [2023](/2023-programme/)
 * [2022](/2022-programme/)
 * [2021](/2021-programme/)

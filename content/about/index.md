@@ -16,7 +16,7 @@ The result of this is women, trans and non-binary people play important roles in
 
 In response to this, and at a time in 2020 when the UK was reakoning with its historic treatment of Black people in response to the killing of George Floyd in the US, Antonio and Alex created (Algo|Afro) Futures.
 
-Since 2021 the programme has welcomed 19 early-career Black artists from across the UK to learn about live coding and create engaging audio and visuals using software such as [TidalCycles](https://tidalcycles.org/), [Strudel](https://strudel.cc/), and [Hydra](https://hydra.ojack.xyz/).
+Since 2021 the programme has welcomed 25 early-career Black artists from across the UK to learn about live coding and create engaging audio and visuals using software such as [TidalCycles](https://tidalcycles.org/), [Strudel](https://strudel.cc/), and [Hydra](https://hydra.ojack.xyz/).
 
 Although (Algo|Afro) Futures responds to the lack of Black representation in the live coding and Algorave scene it's intention is not to 'solve' that problem. Instead it aims to provide early career artists with the time and resources to explore live coding and algorithmic music/art, and take it in whatever directions they want to.
 
@@ -42,17 +42,10 @@ He is currently learning game development, with the aim to explore how immersive
 
 [hellocatfood.com](https://hellocatfood.com)
 
-## Tyger Blue
+# Previous guest mentors
 
-<img style="width:100%" src="/tyger_blue_profile.jpg" />
-
-Photo by Matt Favero/Liminal Warp
-
-Tyger Blue is a British electronic music producer and sound artist. His work explores how algorithmic and computational software (TidalCycles, VCV RACK) can be used to reshape traditional approaches to live music performance and music making in general. As a performer and artist, he draws from many styles shifting mainly between contemporary electronic music, jungle and ambient. In addition to showcasing his work at venues such as The Tate, Corsica Studios, No Bounds Festival and The Southbank Centre, Tyger Blue has also delivered workshops that support emerging Black artists working with creative coding and sound as part of (Algo|Afro) Futures. 
-
-[https://www.instagram.com/tygerblue_](https://www.instagram.com/tygerblue_)
-
-# Previous mentors
+### 2025
+* [Tyger Blue](https://www.instagram.com/tygerblue_/)
 
 ### 2023
 * [Tyger Blue](https://www.instagram.com/tygerblue_/)
