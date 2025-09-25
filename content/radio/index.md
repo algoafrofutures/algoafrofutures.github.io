@@ -9,7 +9,48 @@ Antonio Roberts presents an hour of experimental music by people of colour from 
 
 Listen live every fortnight on Tuesday at 22:00 from 1st July. https://brumradio.com/
 
+## 23rd September 2025
+<iframe width="100%" height="120" src="https://player-widget.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2FBrumRadio%2Falgoafro-futures-with-myna-23092025%2F" frameborder="0" allow="encrypted-media; fullscreen; autoplay; idle-detection; speaker-selection; web-share;" ></iframe>
+
+### Playlist
+01. Le Monde Daho - Loup
+02. B L A C K I E - followed by the pigs
+03. Mariam Rezaei - SHORTIE SHORTS
+04. Banga - Papillon
+05. Jlin - Hatshepsut
+06. Loraine James - Glitch the System (Glitch Bitch 2)
+07. MC Yallah & Debmaster - Lioness
+08. BEARCAT - The Bells
+09. Nkisi - A Path Appears
+10. Fresh - Chop (Nouvelle École)
+11. Speaker Music feat. Maia Sanaa - Amerikkka's Bay
+12. Speaker Music - It is the Negro Who Represents the Revolutionary Struggles for a Classless Society
+
+-------------
+
+## 9th September 2025
+
+### Playlist
+01. Colloboh - Higher Ground
+02. Junglepussy - Arugula
+03. KeiyaA - Forreal???
+04. Linafornia - Dot Wav (feat. Devi Wonder)
+05. Emily Mulenga - Call Out My Name
+06. Emily Mulenga - Oliver
+07. Emily Mulenga - The Cure
+08. clipping. feat. Cocc Pistol Cree - Work Work
+09. Debby Friday - Indulge Me
+10. Death Grips - Double Helix
+11. LustSickPuppy - KETCHUP MUSTARD
+12. Cannelle - WATCH ME FLY
+13. JOHNNASCUS - Gen Z
+14. XXYYXX - Set It Off
+15. Jamiu - Don't Miss
+
+-------------
+
 ## 26th August 2025
+<iframe width="100%" height="120" src="https://player-widget.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2FBrumRadio%2Falgo-afro-futures-with-samir-saunders-25082025%2F" frameborder="0" allow="encrypted-media; fullscreen; autoplay; idle-detection; speaker-selection; web-share;" ></iframe>
 
 ### Playlist
 01. Open Mike Eagle - Relatable (peak OME)
