@@ -5,7 +5,6 @@ draft: false
 ---
 
 ## About the programme
-
 (Algo|Afro) Futures was founded by Antonio Roberts and Alex McLean in 2021. As a pratice and community Live Coding actively tries to counter the white-male bias which is prevalent in digital art, electronic music, and the tech industry. This is detailed in their [community guidelines](https://github.com/Algorave/guidelines/blob/master/README_en.md):
 
 > Diversity in lineups and audiences – Try to have a diverse lineup, thinking about e.g. gender, ethnicity, class, age, belief/non-belief, and education. A diverse lineup creates a diverse audience which leads to a diverse community, and is beneficial to all. Additionally it is also nice to see a range of different technologies and approaches to keep things moving.
@@ -30,7 +29,7 @@ You can hear Antonio talk more about the motivations behind the programme in the
 
 <img style="width:100%" src="/antonio-roberts.jpg" />
 
-Photo by Sophie Shaw
+Photo by [Emily Jones](https://www.instagram.com/echojulietdj)
 
 Antonio Roberts is an artist, musician and curator based in Birmingham, UK. His practice is concerned with how the misuse of digital technology impacts people of colour and other marginalised groups.
 
