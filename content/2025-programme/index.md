@@ -10,6 +10,7 @@ The showcase event took place on 1st August 2025 at Vivid Projects and showcased
 {{< youtube N-VKGqj2GmY >}}
 
 Photos by [Jake Phillips](https://www.jakephillips.photography)
+{{< load-photoswipe >}}
 {{< gallery dir="/2025-showcase/" />}}
 
 ## okcandice

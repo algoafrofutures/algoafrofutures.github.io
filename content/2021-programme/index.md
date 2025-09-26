@@ -10,7 +10,6 @@ The showcase event took place on 23rd July 2021 at Vivid Projects and showcased 
 {{< youtube OenTVK_AW0Y >}}
 
 Photos by [Marcin Sz](https://www.marcinsz.com/)
-
 {{< load-photoswipe >}}
 {{< gallery dir="/2021-showcase/" />}}
 
