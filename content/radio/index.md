@@ -29,6 +29,7 @@ Listen live every fortnight on Tuesday at 22:00 from 1st July. https://brumradio
 -------------
 
 ## 9th September 2025
+<iframe width="100%" height="120" src="https://player-widget.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2FBrumRadio%2Falgoafro-futures-with-emily-mulenga-09092025%2F" frameborder="0" allow="encrypted-media; fullscreen; autoplay; idle-detection; speaker-selection; web-share;" ></iframe>
 
 ### Playlist
 01. Colloboh - Higher Ground
